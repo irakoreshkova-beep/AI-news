@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#efe5d2" />
+    <meta
+      name="description"
+      content="Ежедневный AI-дайджест: главные новости индустрии, ссылки и короткие выжимки в виде installable PWA."
+    />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>AI Brief</title>
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="app-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">AI Brief</p>
+          <h1>Новости ИИ без почтового шума</h1>
+          <p class="lede">
+            Открываете приложение, а там уже лежит свежая выжимка по OpenAI, Anthropic,
+            DeepMind, Hugging Face и другим AI-источникам.
+          </p>
+        </div>
+        <div class="hero-actions">
+          <button id="installButton" class="ghost-button hidden" type="button">Установить</button>
+          <button id="refreshButton" class="primary-button" type="button">Обновить</button>
+        </div>
+      </header>
+
+      <section class="status-strip" aria-live="polite">
+        <div>
+          <span class="status-label">Последнее обновление</span>
+          <strong id="generatedAt">Загрузка...</strong>
+        </div>
+        <div>
+          <span class="status-label">Новостей в подборке</span>
+          <strong id="itemCount">0</strong>
+        </div>
+        <div>
+          <span class="status-label">Источники</span>
+          <strong id="sourceCount">0</strong>
+        </div>
+      </section>
+
+      <section class="control-panel">
+        <label class="field">
+          <span>Выпуск</span>
+          <select id="dateSelect"></select>
+        </label>
+        <div class="view-note" id="viewNote">Показываю свежий выпуск.</div>
+      </section>
+
+      <section class="source-chips" id="sourceChips"></section>
+
+      <section class="card-grid" id="newsList" aria-live="polite"></section>
+
+      <template id="newsCardTemplate">
+        <article class="news-card">
+          <div class="card-meta">
+            <span class="card-source"></span>
+            <span class="card-time"></span>
+          </div>
+          <h2 class="card-title"></h2>
+          <p class="card-summary"></p>
+          <a class="card-link" target="_blank" rel="noreferrer">Читать источник</a>
+        </article>
+      </template>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

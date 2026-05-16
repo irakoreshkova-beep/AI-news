@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-16T22:31:22.792956+00:00",
+  "sources": [
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "10c5ab7c3be41a80fc19a573a22580cf02100bb2c44ff789987d4beb97240c02",
+      "source": "TechCrunch AI",
+      "title": "The haves and have nots of the AI gold rush",
+      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush",
+      "publishedAt": "2026-05-16T20:17:16+00:00",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+    },
+    {
+      "fingerprint": "b69f5d56ccee03f4a9a772a7bb4611d1c66351adccf7f9d8253fcb1fc507ae93",
+      "source": "TechCrunch AI",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work",
+      "publishedAt": "2026-05-16T18:54:28+00:00",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+    },
+    {
+      "fingerprint": "fdd543b7459c0c92e0e02bfcdb3b447ffb9559123e944350199d30183b15733e",
+      "source": "TechCrunch AI",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+      "publishedAt": "2026-05-16T15:33:33+00:00",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
+    },
+    {
+      "fingerprint": "938d5da8282030908c92428891d613144bc5d3e590db7fb4a3eb8d074d1024c3",
+      "source": "OpenAI",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "publishedAt": "2026-05-16T00:00:00+00:00",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+    },
+    {
+      "fingerprint": "6b54a1ac68df22678dd6d5738968068c15264df0243279fd602a96d9defad6fc",
+      "source": "TechCrunch AI",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning",
+      "publishedAt": "2026-05-15T19:24:16+00:00",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest..."
+    },
+    {
+      "fingerprint": "426618b9d4774014050ef3839d3698d608331402a77b5d0945f3bd6fef162705",
+      "source": "TechCrunch AI",
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up",
+      "publishedAt": "2026-05-15T18:14:44+00:00",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+    }
+  ]
+}
