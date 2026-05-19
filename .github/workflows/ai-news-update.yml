@@ -28,8 +28,6 @@ jobs:
           AI_DIGEST_MAX_ITEMS: "12"
           AI_DIGEST_LOOKBACK_HOURS: "30"
           AI_DIGEST_ARCHIVE_DEPTH_DAYS: "30"
-          AI_DIGEST_OPENAI_API_KEY: ${{ secrets.AI_DIGEST_OPENAI_API_KEY }}
-          AI_DIGEST_OPENAI_MODEL: "gpt-4.1-mini"
         run: python generate_digest.py
 
       - name: Commit updated data
