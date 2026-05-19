@@ -82,8 +82,8 @@ function updateSummary(payload, mode) {
   renderItems(payload.items);
   viewNoteNode.textContent =
     mode === "latest"
-      ? "Показываю свежий выпуск, который GitHub Actions подготовил автоматически."
-      : `Показываю архивный выпуск за ${payload.date}.`;
+      ? "Показываю свежий выпуск, который GitHub Actions подготовил автоматически. Новости отображаются на языке первоисточника."
+      : `Показываю архивный выпуск за ${payload.date}. Новости отображаются на языке первоисточника.`;
 }
 
 async function loadArchiveIndex() {
