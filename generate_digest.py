@@ -26,8 +26,7 @@ FEEDS = [
     {"name": "Hugging Face", "kind": "rss", "url": "https://huggingface.co/blog/feed.xml"},
 ]
 
-OPENAI_API_URL = "https://api.openai.com/v1/responses"
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 SITE_DATA_DIR = ROOT / "site" / "data"
 ARCHIVE_DIR = SITE_DATA_DIR / "archive"
 ARCHIVE_INDEX_FILE = ARCHIVE_DIR / "index.json"
@@ -40,8 +39,6 @@ class Config:
     max_items: int
     lookback_hours: int
     archive_depth_days: int
-    openai_api_key: str
-    openai_model: str
 
 
 @dataclass
@@ -71,8 +68,6 @@ def load_config() -> Config:
         max_items=env_int("AI_DIGEST_MAX_ITEMS", 12),
         lookback_hours=env_int("AI_DIGEST_LOOKBACK_HOURS", 30),
         archive_depth_days=env_int("AI_DIGEST_ARCHIVE_DEPTH_DAYS", 30),
-        openai_api_key=os.getenv("AI_DIGEST_OPENAI_API_KEY", ""),
-        openai_model=os.getenv("AI_DIGEST_OPENAI_MODEL", "gpt-4.1-mini"),
     )
 
 
@@ -250,120 +245,15 @@ def fallback_summary(item: NewsItem) -> str:
     body = re.sub(r"\s+", " ", item.snippet or item.title).strip()
     if len(body) > 240:
         body = body[:237].rstrip() + "..."
-    return body or "Описание в RSS отсутствует."
-
-
-def extract_response_text(payload: dict) -> str:
-    output_text = payload.get("output_text")
-    if isinstance(output_text, str) and output_text.strip():
-        return output_text
-
-    chunks: list[str] = []
-    for item in payload.get("output", []):
-        for content in item.get("content", []):
-            if content.get("type") in {"output_text", "text"} and content.get("text"):
-                chunks.append(content["text"])
-    return "\n".join(chunks).strip()
-
-
-def summarize_with_openai(items: list[NewsItem], config: Config) -> bool:
-    if not config.openai_api_key or not items:
-        return False
-
-    prompt_items = [
-        {
-            "id": item.fingerprint[:8],
-            "source": item.source,
-            "title": item.title,
-            "snippet": item.snippet[:700],
-        }
-        for item in items
-    ]
-
-    body = json.dumps(
-        {
-            "model": config.openai_model,
-            "instructions": (
-                "Ты готовишь очень короткий ежедневный AI-дайджест на русском языке. "
-                "Верни строго JSON с массивом summaries. "
-                "Для каждой новости переведи или адаптируй заголовок на естественный русский язык, "
-                "сохрани смысл без кликбейта. "
-                "Также дай одну краткую русскоязычную выжимку, максимум 220 символов."
-            ),
-            "input": json.dumps(prompt_items, ensure_ascii=False),
-            "text": {
-                "format": {
-                    "type": "json_schema",
-                    "name": "digest_summaries",
-                    "schema": {
-                        "type": "object",
-                        "properties": {
-                            "summaries": {
-                                "type": "array",
-                                "items": {
-                                    "type": "object",
-                                    "properties": {
-                                        "id": {"type": "string"},
-                                        "title": {"type": "string"},
-                                        "summary": {"type": "string"},
-                                    },
-                                    "required": ["id", "title", "summary"],
-                                    "additionalProperties": False,
-                                },
-                            }
-                        },
-                        "required": ["summaries"],
-                        "additionalProperties": False,
-                    },
-                    "strict": True,
-                }
-            },
-        },
-        ensure_ascii=False,
-    ).encode("utf-8")
-
-    try:
-        response_payload = json.loads(
-            fetch_url(
-                OPENAI_API_URL,
-                data=body,
-                method="POST",
-                headers={
-                    "Authorization": f"Bearer {config.openai_api_key}",
-                    "Content-Type": "application/json",
-                },
-            ).decode("utf-8")
-        )
-        parsed = json.loads(extract_response_text(response_payload))
-        summary_map = {
-            entry["id"]: {
-                "title": re.sub(r"\s+", " ", entry["title"]).strip(),
-                "summary": re.sub(r"\s+", " ", entry["summary"]).strip(),
-            }
-            for entry in parsed["summaries"]
-        }
-    except Exception as exc:  # noqa: BLE001
-        print(f"[warn] OpenAI summarization failed: {exc}", file=sys.stderr)
-        return False
-
-    for item in items:
-        localized = summary_map.get(item.fingerprint[:8])
-        if not localized:
-            continue
-        item.title = localized["title"] or item.title
-        item.summary = localized["summary"] or ""
-    return True
+    if not body:
+        return "Источник не дал короткого описания новости."
+    return body
 
 
 def summarize_items(items: list[NewsItem], config: Config) -> None:
-    used_openai = summarize_with_openai(items, config)
     for item in items:
-        if not item.summary:
-            item.summary = fallback_summary(item)
-    print(
-        "[info] Summaries generated with OpenAI." if used_openai else "[info] Summaries generated from RSS snippets.",
-        file=sys.stderr,
-    )
+        item.summary = fallback_summary(item)
+    print("[info] Summaries generated in free mode from source snippets.", file=sys.stderr)
 
 
 def load_json(path: Path, default: dict) -> dict:
