@@ -329,7 +329,9 @@ def collect_items(config: Config) -> list[NewsItem]:
 
     deduped = dedupe_items(items)
     seen = set(load_state().get("sent_fingerprints", []))
-    fresh = [item for item in deduped if item.published_at >= cutoff and item.fingerprint not in seen]
+    recent = [item for item in deduped if item.published_at >= cutoff]
+    # The analysis intentionally revisits the strongest news from the morning brief.
+    fresh = recent if config.mode == "analysis" else [item for item in recent if item.fingerprint not in seen]
     return fresh[: config.max_items]
 
 
@@ -664,8 +666,6 @@ def main() -> None:
     parsed = generate_message_payload(items, config)
     if not parsed:
         print("[info] No fresh items. Nothing to send.", file=sys.stderr)
-        if mark_sent:
-            save_state(config, items, mark_sent=True)
         return
 
     formatters = {
@@ -676,8 +676,6 @@ def main() -> None:
     message = formatters[config.mode](parsed)
     if not message:
         print(f"[info] No {config.mode} message generated. Nothing to send.", file=sys.stderr)
-        if mark_sent:
-            save_state(config, items, mark_sent=True)
         return
 
     send_telegram_message(config, message)
