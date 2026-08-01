@@ -1,6 +1,11 @@
 {
   "entries": [
     {
+      "date": "2026-08-01",
+      "file": "data/archive/2026-08-01.json",
+      "count": 12
+    },
+    {
       "date": "2026-07-31",
       "file": "data/archive/2026-07-31.json",
       "count": 12
