@@ -1,107 +1,41 @@
 {
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T10:51:41.934918+00:00",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T11:04:29.885418+00:00",
   "sources": [
-    "Hugging Face",
-    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "15ed55af7631006652f15b3ea1970a5a5e65be70b5542504d6bfe08ee16d2659",
+      "fingerprint": "90c99f85aa01dc726c95e69a036d41c98d8ab0787b6deac6424f1014061ff22c",
       "source": "TechCrunch AI",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "publishedAt": "2026-10-10T00:18:32+00:00",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "publishedAt": "2026-10-10T21:47:51+00:00",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
     },
     {
-      "fingerprint": "5c4c4fe8ce3655d35372831473d74f1fc741440d0d546032de1c89c955cc407f",
+      "fingerprint": "4ef443669363fdc7fddb6575c1390c0e6d98b53440cecb37f940c8f28cb7383d",
       "source": "TechCrunch AI",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-      "publishedAt": "2026-10-09T21:41:29+00:00",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "publishedAt": "2026-10-10T19:50:00+00:00",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
     },
     {
-      "fingerprint": "26410dc92780db19bc8ac7ce3572ce7b359f5788e1c8c6498117b256840ad698",
+      "fingerprint": "fe1b8f019aa1a403fed306362e8130f3b809f556bcc53be2812b51575349d711",
       "source": "TechCrunch AI",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "publishedAt": "2026-10-09T19:36:56+00:00",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+      "publishedAt": "2026-10-10T15:00:00+00:00",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open t..."
     },
     {
-      "fingerprint": "96d2a2a5eed9afc5e3c1495b61dee7ffe69bcebee076cc600c16eff9d7ce9b38",
+      "fingerprint": "051a5b208990890e5fd7d499d003c1850e1be7944b6d49c133718235a370ec0b",
       "source": "TechCrunch AI",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-      "publishedAt": "2026-10-09T16:56:42+00:00",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition le..."
-    },
-    {
-      "fingerprint": "4f16fb74b45611b032b2f78bb839dea53722ff5b6750b7f0a8ab6882b9502923",
-      "source": "TechCrunch AI",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-      "publishedAt": "2026-10-09T16:53:02+00:00",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition le..."
-    },
-    {
-      "fingerprint": "43b9844210c41730087d16e2bc9f257fc5f35bc9e27d1aedf1a8d87a8e79aa6f",
-      "source": "TechCrunch AI",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
-      "publishedAt": "2026-10-09T16:45:00+00:00",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
-    },
-    {
-      "fingerprint": "f6c74746c94cc648b5382cdccdc8b577cbc5b339ebaca49e0e94049273d32be4",
-      "source": "TechCrunch AI",
-      "title": "We can’t help treating AI like it’s human. But should we?",
-      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
-      "publishedAt": "2026-10-09T16:40:14+00:00",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
-    },
-    {
-      "fingerprint": "263119016946ae0afee288bef37323bcfdd3a8660c621fdf378249df6c40a627",
-      "source": "TechCrunch AI",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
-      "publishedAt": "2026-10-09T15:43:33+00:00",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-    },
-    {
-      "fingerprint": "d3f99b62ec662f4b2563cb0274a609344f5ddbfa583842ff0b5e4e138300fe3c",
-      "source": "Hugging Face",
-      "title": "Impactful scheduling for GPU clusters",
-      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "publishedAt": "2026-10-09T15:20:29+00:00",
-      "summary": "Impactful scheduling for GPU clusters"
-    },
-    {
-      "fingerprint": "4ed70d2c730326973eed0453836956c2e6d1e880f9c79a402536b56a0cb4afe3",
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
-      "publishedAt": "2026-10-09T14:00:00+00:00",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type."
-    },
-    {
-      "fingerprint": "ec99a930269714b1b87e0c65993c9d86951d750218e38aa445b2767c6c71cf60",
-      "source": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "fingerprint": "7e19805dd758b5557bff8472398e5c3d85b1f4b2e0986b8cd2e17fca5b984721",
-      "source": "OpenAI",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "publishedAt": "2026-10-10T14:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     }
   ]
 }
