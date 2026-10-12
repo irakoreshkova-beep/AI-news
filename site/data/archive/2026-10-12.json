@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T12:33:04.288680+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "8f4266076bac2e78a2c928f4e2b06d70239a44fcbca6eefaff0323bb693186e7",
+      "source": "TechCrunch AI",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "publishedAt": "2026-10-11T21:14:40+00:00",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+    },
+    {
+      "fingerprint": "806df45556acd916ca3050a865f912cfc2bc5fc7d14d0507f7f4123bc887d3d2",
+      "source": "TechCrunch AI",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+      "publishedAt": "2026-10-11T19:00:00+00:00",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
+    },
+    {
+      "fingerprint": "35c3bd9a19e0ef354dff83cda5c1147bbc48c518e5a3031dc3aa0f7477baad9d",
+      "source": "TechCrunch AI",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "publishedAt": "2026-10-11T16:52:33+00:00",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    },
+    {
+      "fingerprint": "9d8d570430e0f4d9458b948fd2537925be76419467783d2f3547e9194b7c8246",
+      "source": "TechCrunch AI",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "publishedAt": "2026-10-11T14:00:00+00:00",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    }
+  ]
+}
