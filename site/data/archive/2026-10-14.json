@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T09:49:25.417024+00:00",
+  "sources": [
+    "Anthropic",
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "c84945a34eba8ff3205af70211e311ae25832b409584634cca4f2d034f6f71f5",
+      "source": "OpenAI",
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publishedAt": "2026-10-14T00:00:00+00:00",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+    },
+    {
+      "fingerprint": "46a5c83036ff4221e60754783dc0e275cb9f31b3e687b3864b5355fc7f326c0f",
+      "source": "Anthropic",
+      "title": "Singapore office and government MOU | Anthropic",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "publishedAt": "2026-10-14T00:00:00+00:00",
+      "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
+    },
+    {
+      "fingerprint": "45f74c701008240339a81b9a0df66cba1dc05d84fd55daed732818f962eb53fc",
+      "source": "TechCrunch AI",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+      "publishedAt": "2026-10-13T23:13:31+00:00",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+    },
+    {
+      "fingerprint": "f6d60ad296197ca9b88b68aee129e7a56e7a4308c629f94d5535a91180a8f37e",
+      "source": "TechCrunch AI",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+      "publishedAt": "2026-10-13T23:05:34+00:00",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+    },
+    {
+      "fingerprint": "b3136e4a793b6a919c0c329769fe25139235c64fa9b3b51a1277e4305a9683a3",
+      "source": "TechCrunch AI",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+      "publishedAt": "2026-10-13T23:00:00+00:00",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+    },
+    {
+      "fingerprint": "b93404856a0f1247f02c27e11ea9894262f3485049f66e8f8b4fcdb8e97001b8",
+      "source": "TechCrunch AI",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+      "publishedAt": "2026-10-13T22:36:59+00:00",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+    },
+    {
+      "fingerprint": "1ed189ea4f5d9816d4c05335783b0e830a93ca2b743c68b5fb73eaa482182efd",
+      "source": "TechCrunch AI",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "publishedAt": "2026-10-13T20:36:44+00:00",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+    },
+    {
+      "fingerprint": "40890340086fc3723aef6f62ba9169acb1abff5856440f910377dec1bee448c0",
+      "source": "TechCrunch AI",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
+      "publishedAt": "2026-10-13T18:30:00+00:00",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+    },
+    {
+      "fingerprint": "4eb668012cbed8c9c57d16b35e91281758e5cc39dbddde1b58307c8f1ccdc3a9",
+      "source": "TechCrunch AI",
+      "title": "Facebook is giving users more control over their algorithm",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+      "publishedAt": "2026-10-13T18:05:24+00:00",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
+    },
+    {
+      "fingerprint": "b0c23175e63ce231153261bdc6648d2597a6177117957e2c14a54607e0a3a749",
+      "source": "TechCrunch AI",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "publishedAt": "2026-10-13T17:30:00+00:00",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Dis..."
+    },
+    {
+      "fingerprint": "74b4acfcc009bc4038999fffd68617b737521c8680247174965d85bfc5384996",
+      "source": "TechCrunch AI",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+      "publishedAt": "2026-10-13T17:18:25+00:00",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, w..."
+    },
+    {
+      "fingerprint": "e1dfdc140da54b3f66215f8b90bdd1295a8d5b5a4b313f32f778eb37e7a11582",
+      "source": "Hugging Face",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "publishedAt": "2026-10-13T17:05:48+00:00",
+      "summary": "Run fast, private agents on-device with LFM2.5-24B-A2B"
+    }
+  ]
+}
