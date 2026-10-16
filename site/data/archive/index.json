@@ -1,6 +1,11 @@
 {
   "entries": [
     {
+      "date": "2026-10-16",
+      "file": "data/archive/2026-10-16.json",
+      "count": 12
+    },
+    {
       "date": "2026-10-15",
       "file": "data/archive/2026-10-15.json",
       "count": 12
@@ -444,11 +449,6 @@
       "date": "2026-07-19",
       "file": "data/archive/2026-07-19.json",
       "count": 2
-    },
-    {
-      "date": "2026-07-18",
-      "file": "data/archive/2026-07-18.json",
-      "count": 12
     }
   ]
 }
