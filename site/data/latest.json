@@ -1,107 +1,90 @@
 {
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-16T09:22:56.198574+00:00",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T08:54:21.983208+00:00",
   "sources": [
-    "Hugging Face",
     "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "3d32fa87b33f3226119913397be919117ff64ebc458c1a47150a9bfb9472676e",
-      "source": "Hugging Face",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "publishedAt": "2026-10-16T01:44:47+00:00",
-      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
-    },
-    {
-      "fingerprint": "0bc5ea5d3747e4fa092e0f673073b50b0004c6f2b541e1a8ed926ab3202627d0",
+      "fingerprint": "a2d9c77952c3f9c9e2f73767f259e1d00be8c93391faaaec2952e7b76f737e43",
       "source": "TechCrunch AI",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
-      "publishedAt": "2026-10-15T23:44:56+00:00",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "publishedAt": "2026-10-16T21:22:28+00:00",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
     },
     {
-      "fingerprint": "98525b4a6a3a54a11b3e0c643703d20b1f8a23b6eb2cf00c7bd63b10bcfa7bf8",
-      "source": "Hugging Face",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "publishedAt": "2026-10-15T20:34:01+00:00",
-      "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
-    },
-    {
-      "fingerprint": "fefe2d7df8287cde886aab7f62a031678331263535c0320ac7becfe8e561dad0",
-      "source": "TechCrunch AI",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
-      "publishedAt": "2026-10-15T20:04:53+00:00",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
-    },
-    {
-      "fingerprint": "1fb374d4b29fc48cf14d915408e348e2a887b86e1c1138260c083bc5024259bd",
-      "source": "TechCrunch AI",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
-      "publishedAt": "2026-10-15T19:55:25+00:00",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
-    },
-    {
-      "fingerprint": "22a4587475b318d746efb36af3d47aea32896d8ab74c2b65c26bd554df37277d",
-      "source": "TechCrunch AI",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
-      "publishedAt": "2026-10-15T19:14:26+00:00",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-    },
-    {
-      "fingerprint": "aba1a4e3fbeda7e4fe853548512798a1a929d668eb88daac88ec8f8a0720fab9",
+      "fingerprint": "7d6469d11a0bca21103ff61e4fef37e2e513b934c04ec64452e40ed9eba7b3e0",
       "source": "OpenAI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "publishedAt": "2026-10-15T19:00:00+00:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "publishedAt": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
     },
     {
-      "fingerprint": "68549f10680fac9e672df658db5d1c1d477bd2428cc2e6f073580390c49b0089",
+      "fingerprint": "b3b926edbac36ebe0ecaf3baeca7aaf31b82e529cb26c8c60d701aaaed583860",
       "source": "TechCrunch AI",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "publishedAt": "2026-10-15T18:56:46+00:00",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+      "publishedAt": "2026-10-16T17:52:24+00:00",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
     },
     {
-      "fingerprint": "222e06a0e18f899ec1cae41cd7e07fb62d27413b33b530f59bfd17a16ab95569",
+      "fingerprint": "21514b64ab8b1bb7065c519a721cc3bae84a95578282d6755f9fbb2a8be43f3b",
       "source": "TechCrunch AI",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
-      "publishedAt": "2026-10-15T18:00:00+00:00",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest qu..."
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+      "publishedAt": "2026-10-16T16:30:00+00:00",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standard..."
     },
     {
-      "fingerprint": "261aaa123bcd3343bda17745fadae7618b292229e09fc414b658c08a6773784f",
+      "fingerprint": "839e91bb6b5003faef9100265d6a290e36e44907bb9b2f24ac3e8cbc4746f3ce",
       "source": "TechCrunch AI",
-      "title": "AI agents are coming to Rivian’s cars",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
-      "publishedAt": "2026-10-15T15:02:36+00:00",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+      "publishedAt": "2026-10-16T16:30:00+00:00",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standard..."
     },
     {
-      "fingerprint": "fb914f7f1723e2161bd296a3f10a18c045d2da319c9a78b419edd2cc172cd786",
+      "fingerprint": "5430dd4ebaf9b13923855ad881942d7fd6b5908e4106b92162e93ddb0aef4a10",
       "source": "TechCrunch AI",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
-      "publishedAt": "2026-10-15T14:29:33+00:00",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "publishedAt": "2026-10-16T16:01:37+00:00",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
     },
     {
-      "fingerprint": "a195a18f0af2bfd607e77547a116103c2899ac25d86a315025f89cabda54e4bf",
+      "fingerprint": "f1b4c87b94cb7f80e9623d08f747d7bf7b04cf398e1abd4ac78a9d69dc8ca6a5",
       "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
-      "publishedAt": "2026-10-15T14:00:00+00:00",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+      "publishedAt": "2026-10-16T15:33:49+00:00",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+    },
+    {
+      "fingerprint": "f68da37da4bfdbe4921dd47497663ea441f7b6dbcb7cb2667a5d9681e3700d2d",
+      "source": "TechCrunch AI",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+      "publishedAt": "2026-10-16T14:26:51+00:00",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+    },
+    {
+      "fingerprint": "e44c7a3bbc0c36b160ac96938f67e237ed33fea1495eae2d26e51c5cc9f16a1f",
+      "source": "TechCrunch AI",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+      "publishedAt": "2026-10-16T14:00:00+00:00",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
+    },
+    {
+      "fingerprint": "f46a6469f746ea6abf8509b8292805a2e4f042d25c25be59aaa2578a739acbdf",
+      "source": "TechCrunch AI",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+      "publishedAt": "2026-10-16T12:55:09+00:00",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
     }
   ]
 }
