@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T09:12:32.514208+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "9f98ae40afcc5d58be3e0b3468ecbc04a7fd4f8cbbea7324f9a183e4129489d7",
+      "source": "TechCrunch AI",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "fingerprint": "45e0203113d316afb0c0b969048608bba30cbdbac53cd7f0ec73765f8e41a6b0",
+      "source": "TechCrunch AI",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+    },
+    {
+      "fingerprint": "32087fa8fbd893a29e00589a932727797b3eb555001f06c1f8f8132a57922f35",
+      "source": "TechCrunch AI",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "publishedAt": "2026-10-17T18:48:08+00:00",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    }
+  ]
+}
