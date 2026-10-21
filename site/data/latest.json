@@ -1,105 +1,107 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T09:42:22.673429+00:00",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T09:43:37.530149+00:00",
   "sources": [
+    "Google DeepMind",
+    "Hugging Face",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "e20ce709dc6aee0ae75d05a0468a6a274ff537ea8a1cb0b3909386206f165bcd",
-      "source": "TechCrunch AI",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-      "publishedAt": "2026-10-20T01:27:03+00:00",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+      "fingerprint": "b20224861d521bb42151ac971184a4197c25e64258feb53e27a5315a2e286db6",
+      "source": "Google DeepMind",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
     },
     {
-      "fingerprint": "30d322bfd787b0dd66b13a8940b2d0f4a9174dd65da84f1e53840ac729b04440",
+      "fingerprint": "2321a130539cbcfaf0d9ed81723178e83ce20a5471a7b027689e86be8d5a5223",
       "source": "TechCrunch AI",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-      "publishedAt": "2026-10-19T23:39:38+00:00",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "publishedAt": "2026-10-20T23:01:23+00:00",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
-      "fingerprint": "ac7765249c75c3505996a73c490bd543e9007d6b007c44c9bcbbbeb4fed3aaf5",
+      "fingerprint": "87d42e7f242227877d1c9c4da4a56849ac895bcbf347b8b0dcccacfae635ff0d",
       "source": "TechCrunch AI",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
-      "publishedAt": "2026-10-19T22:49:27+00:00",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have sp..."
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+      "publishedAt": "2026-10-20T22:24:02+00:00",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
-      "fingerprint": "48ef98f26dbad36707a746226530f2794d843f04f29a2418451e4f45720e0cb5",
+      "fingerprint": "60e6cb62e30fa85279ca2ffd5f866c011444bb0baf8d2788d025d15ce6231203",
       "source": "TechCrunch AI",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-      "publishedAt": "2026-10-19T22:04:28+00:00",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "publishedAt": "2026-10-20T21:25:22+00:00",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
     },
     {
-      "fingerprint": "ceaf3306309e7b045b319b47d1932e50bc3e0da91a0b38f411aef963341ff39c",
+      "fingerprint": "8ac74a050ea60293c78724b56ce518f41d27f29583292f9678c06eda0e2726b1",
       "source": "TechCrunch AI",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-      "publishedAt": "2026-10-19T20:09:24+00:00",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "publishedAt": "2026-10-20T20:40:41+00:00",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
-      "fingerprint": "5a4848e12a16e27fc7c94504ea5d138785f59e09d0ad4fc5e57496a9035b78bf",
+      "fingerprint": "984c3f1e85914d0c8e2622fd981d537ca2c00fa13a266ff285f2688671196657",
       "source": "TechCrunch AI",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-      "publishedAt": "2026-10-19T19:28:34+00:00",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusi..."
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+      "publishedAt": "2026-10-20T20:35:10+00:00",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
     },
     {
-      "fingerprint": "8e38d1d4fdad92b98b0d66d146caf04d2431d72b5a74165916e77c5e82fe359b",
+      "fingerprint": "cd60d35bf849ad6e47912d1c90c773ca914b7396ac0a702be2e994861c98534b",
       "source": "TechCrunch AI",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
-      "publishedAt": "2026-10-19T19:00:12+00:00",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+      "publishedAt": "2026-10-20T18:38:24+00:00",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
     },
     {
-      "fingerprint": "49d56dd6a9803755cf336583fdd2ae446797624b11f6433b4205f6284c1cc4c5",
+      "fingerprint": "e856aa30e4e6f0eb3e3c027a39c2ffb546486f990efdf55bc17f2cabf7be870e",
       "source": "TechCrunch AI",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
-      "publishedAt": "2026-10-19T18:49:04+00:00",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
+      "publishedAt": "2026-10-20T18:36:53+00:00",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them so..."
     },
     {
-      "fingerprint": "a3316be3d0a504b8105153dd21e03f33c9136ea8c8c5d9bbe951cf451d058487",
-      "source": "TechCrunch AI",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-      "publishedAt": "2026-10-19T18:37:27+00:00",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+      "fingerprint": "a218287d89014cab8133fef57b15f38d92c1cf6c8c8f026b35625417a8666ae5",
+      "source": "Hugging Face",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "publishedAt": "2026-10-20T18:17:47+00:00",
+      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
     },
     {
-      "fingerprint": "8dc8b3cc862dc914491b8a395d8bb0fd5df74d79a3faf93c053ce79f079513fb",
+      "fingerprint": "a52d6389b85bbbe13894d4f5dd30c2ad867ad402c5ef0c3acc7f7e4533f07aa4",
       "source": "TechCrunch AI",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
-      "publishedAt": "2026-10-19T16:13:22+00:00",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+      "publishedAt": "2026-10-20T17:55:12+00:00",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger."
     },
     {
-      "fingerprint": "05fa7236ee105aeca89c540fe9f352a4e8d50ba0ed000a552e5899e61489f6a2",
+      "fingerprint": "3850c33c5e5c74f86b9b61ac4a808a57ff34b0a1626e86e71bf71d5161bbea37",
       "source": "TechCrunch AI",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "publishedAt": "2026-10-19T15:37:09+00:00",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "publishedAt": "2026-10-20T17:12:48+00:00",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
     },
     {
-      "fingerprint": "6744a713fe8190b5699325b415b26c7c0a66920d88da2450032351c9629d2288",
+      "fingerprint": "9d1f6e88307771f27666431a84353dddc44a329161e4c9b45c6bbaad732d07c0",
       "source": "TechCrunch AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-      "publishedAt": "2026-10-19T12:30:00+00:00",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Dis..."
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+      "publishedAt": "2026-10-20T16:20:06+00:00",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
     }
   ]
 }
