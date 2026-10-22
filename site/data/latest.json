@@ -1,107 +1,107 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T09:43:37.530149+00:00",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T09:43:21.891051+00:00",
   "sources": [
-    "Google DeepMind",
     "Hugging Face",
+    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "b20224861d521bb42151ac971184a4197c25e64258feb53e27a5315a2e286db6",
-      "source": "Google DeepMind",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "publishedAt": "2026-10-21T04:00:00+00:00",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
-    },
-    {
-      "fingerprint": "2321a130539cbcfaf0d9ed81723178e83ce20a5471a7b027689e86be8d5a5223",
-      "source": "TechCrunch AI",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-      "publishedAt": "2026-10-20T23:01:23+00:00",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "fingerprint": "87d42e7f242227877d1c9c4da4a56849ac895bcbf347b8b0dcccacfae635ff0d",
-      "source": "TechCrunch AI",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
-      "publishedAt": "2026-10-20T22:24:02+00:00",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-    },
-    {
-      "fingerprint": "60e6cb62e30fa85279ca2ffd5f866c011444bb0baf8d2788d025d15ce6231203",
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "publishedAt": "2026-10-20T21:25:22+00:00",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
-    },
-    {
-      "fingerprint": "8ac74a050ea60293c78724b56ce518f41d27f29583292f9678c06eda0e2726b1",
-      "source": "TechCrunch AI",
-      "title": "SpaceX’s AI business is beating expectations",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "publishedAt": "2026-10-20T20:40:41+00:00",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
-    },
-    {
-      "fingerprint": "984c3f1e85914d0c8e2622fd981d537ca2c00fa13a266ff285f2688671196657",
-      "source": "TechCrunch AI",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "publishedAt": "2026-10-20T20:35:10+00:00",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
-    },
-    {
-      "fingerprint": "cd60d35bf849ad6e47912d1c90c773ca914b7396ac0a702be2e994861c98534b",
-      "source": "TechCrunch AI",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
-      "publishedAt": "2026-10-20T18:38:24+00:00",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-    },
-    {
-      "fingerprint": "e856aa30e4e6f0eb3e3c027a39c2ffb546486f990efdf55bc17f2cabf7be870e",
-      "source": "TechCrunch AI",
-      "title": "ChatGPT now lets you lock your chats",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
-      "publishedAt": "2026-10-20T18:36:53+00:00",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them so..."
-    },
-    {
-      "fingerprint": "a218287d89014cab8133fef57b15f38d92c1cf6c8c8f026b35625417a8666ae5",
+      "fingerprint": "bb4e3cf5de56ebf7808cb60ab24fdbd234055beba5281f8d79b1b206beeac9b4",
       "source": "Hugging Face",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "publishedAt": "2026-10-20T18:17:47+00:00",
-      "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "publishedAt": "2026-10-22T07:51:31+00:00",
+      "summary": "Ensemble forecasting with IBM Granite time-series models"
     },
     {
-      "fingerprint": "a52d6389b85bbbe13894d4f5dd30c2ad867ad402c5ef0c3acc7f7e4533f07aa4",
+      "fingerprint": "1a5d8cbdc5c2fcc205b993a1f815d834b34f10b5fd236a3d4f2c06d8226901f8",
       "source": "TechCrunch AI",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-      "publishedAt": "2026-10-20T17:55:12+00:00",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger."
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "publishedAt": "2026-10-21T22:51:22+00:00",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
     },
     {
-      "fingerprint": "3850c33c5e5c74f86b9b61ac4a808a57ff34b0a1626e86e71bf71d5161bbea37",
+      "fingerprint": "853a4ea86463d55e9cdbff254d5e3449966d9438f14b87a4dd8eeabb5ae989d5",
       "source": "TechCrunch AI",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "publishedAt": "2026-10-20T17:12:48+00:00",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "publishedAt": "2026-10-21T21:16:20+00:00",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
     },
     {
-      "fingerprint": "9d1f6e88307771f27666431a84353dddc44a329161e4c9b45c6bbaad732d07c0",
+      "fingerprint": "e4c2679ca88741c94a9c14796c7268f09e044b6dad5138db4c42bc43542da964",
       "source": "TechCrunch AI",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
-      "publishedAt": "2026-10-20T16:20:06+00:00",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "publishedAt": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
+    },
+    {
+      "fingerprint": "ab9ae936ffb3e60eaf0636d4032015b6fe71332e7b5bcb9c5e9504a3a2adf86f",
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "publishedAt": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "fingerprint": "8c5859e51902ba476d20a2b72912a1288aecd6ac2a9d689f6a877074bdabcc3f",
+      "source": "TechCrunch AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "publishedAt": "2026-10-21T20:27:41+00:00",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "fingerprint": "86af6e0e7ddc9c4d36937931f94c295f3db8267d5f7e507693de68e91822fdd1",
+      "source": "TechCrunch AI",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "publishedAt": "2026-10-21T19:30:00+00:00",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+    },
+    {
+      "fingerprint": "f994511f5623a990d86be59c3e0a02f35e812540226a70c146bc4a4ac038ecb3",
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "publishedAt": "2026-10-21T18:26:30+00:00",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+    },
+    {
+      "fingerprint": "a817e15afa9332d8a8f5306c0e3fdda5496df93a75c288de586dbab6a47f21b8",
+      "source": "TechCrunch AI",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "publishedAt": "2026-10-21T17:59:12+00:00",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "fingerprint": "267b0560689d39bb918695b76db2044b137ea3b45978d46b4665fdf58fec1ac5",
+      "source": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "publishedAt": "2026-10-21T17:35:36+00:00",
+      "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
+    },
+    {
+      "fingerprint": "37f19a5b06395683a372f34c9b3f64c6776ee11ad9722e653b5cce1462514308",
+      "source": "TechCrunch AI",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "publishedAt": "2026-10-21T17:18:27+00:00",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+    },
+    {
+      "fingerprint": "67b20a4107eda1517fe9c59128b9a023bcb991db4cc304187fa61e8a1710a837",
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "publishedAt": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
     }
   ]
 }

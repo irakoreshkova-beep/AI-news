@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T09:43:21.891051+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "bb4e3cf5de56ebf7808cb60ab24fdbd234055beba5281f8d79b1b206beeac9b4",
+      "source": "Hugging Face",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "publishedAt": "2026-10-22T07:51:31+00:00",
+      "summary": "Ensemble forecasting with IBM Granite time-series models"
+    },
+    {
+      "fingerprint": "1a5d8cbdc5c2fcc205b993a1f815d834b34f10b5fd236a3d4f2c06d8226901f8",
+      "source": "TechCrunch AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "publishedAt": "2026-10-21T22:51:22+00:00",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "fingerprint": "853a4ea86463d55e9cdbff254d5e3449966d9438f14b87a4dd8eeabb5ae989d5",
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "publishedAt": "2026-10-21T21:16:20+00:00",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+    },
+    {
+      "fingerprint": "e4c2679ca88741c94a9c14796c7268f09e044b6dad5138db4c42bc43542da964",
+      "source": "TechCrunch AI",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "publishedAt": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
+    },
+    {
+      "fingerprint": "ab9ae936ffb3e60eaf0636d4032015b6fe71332e7b5bcb9c5e9504a3a2adf86f",
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "publishedAt": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "fingerprint": "8c5859e51902ba476d20a2b72912a1288aecd6ac2a9d689f6a877074bdabcc3f",
+      "source": "TechCrunch AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "publishedAt": "2026-10-21T20:27:41+00:00",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "fingerprint": "86af6e0e7ddc9c4d36937931f94c295f3db8267d5f7e507693de68e91822fdd1",
+      "source": "TechCrunch AI",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "publishedAt": "2026-10-21T19:30:00+00:00",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+    },
+    {
+      "fingerprint": "f994511f5623a990d86be59c3e0a02f35e812540226a70c146bc4a4ac038ecb3",
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "publishedAt": "2026-10-21T18:26:30+00:00",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+    },
+    {
+      "fingerprint": "a817e15afa9332d8a8f5306c0e3fdda5496df93a75c288de586dbab6a47f21b8",
+      "source": "TechCrunch AI",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "publishedAt": "2026-10-21T17:59:12+00:00",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "fingerprint": "267b0560689d39bb918695b76db2044b137ea3b45978d46b4665fdf58fec1ac5",
+      "source": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "publishedAt": "2026-10-21T17:35:36+00:00",
+      "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
+    },
+    {
+      "fingerprint": "37f19a5b06395683a372f34c9b3f64c6776ee11ad9722e653b5cce1462514308",
+      "source": "TechCrunch AI",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "publishedAt": "2026-10-21T17:18:27+00:00",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+    },
+    {
+      "fingerprint": "67b20a4107eda1517fe9c59128b9a023bcb991db4cc304187fa61e8a1710a837",
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "publishedAt": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    }
+  ]
+}
