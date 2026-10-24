@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T09:11:41.293742+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "b14513c22dee856fd50b8563bfdc2b78f3474a3621939dc1f48b9eb7ed73e736",
+      "source": "TechCrunch AI",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "publishedAt": "2026-10-23T23:05:49+00:00",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "fingerprint": "03eb176f3257c2aeca5a2313155b31c9c1cd982205cdd0be929214d3f44d2371",
+      "source": "TechCrunch AI",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+      "publishedAt": "2026-10-23T21:59:19+00:00",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
+    {
+      "fingerprint": "896d1fb45981c50dfe3026710e91cd0420cf67050965137ae84ca14bf102a0a4",
+      "source": "TechCrunch AI",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "publishedAt": "2026-10-23T19:06:23+00:00",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and sca..."
+    },
+    {
+      "fingerprint": "e3ea7d12c2e35f69b6ac35bcb0686b64d60ce45aaee6f3a291044a6604d4a132",
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "publishedAt": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+      "fingerprint": "8873229189f55dc73308a2dd8d7f153626689e16cf3629605c735595854eede3",
+      "source": "Hugging Face",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "publishedAt": "2026-10-23T16:15:50+00:00",
+      "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+    },
+    {
+      "fingerprint": "1d97438880fcd8cac19b2ddb7a08b5cd8f705fa10277c5ca2a66c3912095cb96",
+      "source": "OpenAI",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "publishedAt": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+    },
+    {
+      "fingerprint": "0811345687cef8fe11de09cb1c37db237c1395a42475b6a1b91c2f5e701e69b8",
+      "source": "TechCrunch AI",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+    }
+  ]
+}

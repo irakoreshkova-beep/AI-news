@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T09:39:15.967232+00:00",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T09:11:41.293742+00:00",
   "sources": [
     "Hugging Face",
     "OpenAI",
@@ -8,100 +8,60 @@
   ],
   "items": [
     {
+      "fingerprint": "b14513c22dee856fd50b8563bfdc2b78f3474a3621939dc1f48b9eb7ed73e736",
+      "source": "TechCrunch AI",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "publishedAt": "2026-10-23T23:05:49+00:00",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "fingerprint": "03eb176f3257c2aeca5a2313155b31c9c1cd982205cdd0be929214d3f44d2371",
+      "source": "TechCrunch AI",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+      "publishedAt": "2026-10-23T21:59:19+00:00",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
+    {
+      "fingerprint": "896d1fb45981c50dfe3026710e91cd0420cf67050965137ae84ca14bf102a0a4",
+      "source": "TechCrunch AI",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "publishedAt": "2026-10-23T19:06:23+00:00",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and sca..."
+    },
+    {
+      "fingerprint": "e3ea7d12c2e35f69b6ac35bcb0686b64d60ce45aaee6f3a291044a6604d4a132",
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "publishedAt": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+    },
+    {
+      "fingerprint": "8873229189f55dc73308a2dd8d7f153626689e16cf3629605c735595854eede3",
+      "source": "Hugging Face",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "publishedAt": "2026-10-23T16:15:50+00:00",
+      "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+    },
+    {
+      "fingerprint": "1d97438880fcd8cac19b2ddb7a08b5cd8f705fa10277c5ca2a66c3912095cb96",
+      "source": "OpenAI",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "publishedAt": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+    },
+    {
       "fingerprint": "0811345687cef8fe11de09cb1c37db237c1395a42475b6a1b91c2f5e701e69b8",
       "source": "TechCrunch AI",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
       "publishedAt": "2026-10-23T04:00:00+00:00",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-    },
-    {
-      "fingerprint": "86aee845efed9d1d5e58cf3648980ae0a4a1dfe79db52b65f4be5335f3484b52",
-      "source": "TechCrunch AI",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
-      "publishedAt": "2026-10-23T00:45:37+00:00",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-    },
-    {
-      "fingerprint": "50277ba51a7a6e9462137d3f3ddbb60791fd98bde664906d47cf2e5065e2c01f",
-      "source": "OpenAI",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
-      "fingerprint": "682e251a5d69607b5fe308b325e8dad746e60904372ececca6ab915e49fb1cc3",
-      "source": "Hugging Face",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "publishedAt": "2026-10-22T22:24:34+00:00",
-      "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
-    },
-    {
-      "fingerprint": "9fac7351f4802682bc2cbbe4448b75a68d5fd3f608de63709c06c8b1d4293633",
-      "source": "TechCrunch AI",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
-      "publishedAt": "2026-10-22T22:08:24+00:00",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
-    },
-    {
-      "fingerprint": "17799072f26c4d0249789de2212a25d70c5718435a019850a483a8c8052810df",
-      "source": "TechCrunch AI",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
-      "publishedAt": "2026-10-22T19:07:09+00:00",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-    },
-    {
-      "fingerprint": "0c39ecabc37c36b85f045aeb5cba5a0ddd5e2214c5a59c38f4e8db69af7a8570",
-      "source": "OpenAI",
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "summary": "Fast, focused, low-cost decisions for any application."
-    },
-    {
-      "fingerprint": "62cb4466818b0e5c523b7c75e021f7f24b0a9fdf45368d4cff0bae946f40b16b",
-      "source": "TechCrunch AI",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-    },
-    {
-      "fingerprint": "7d348ffba4e59c9199891aa62e8bd688558a04c1b30b13527f79bd000ec2db6e",
-      "source": "TechCrunch AI",
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-    },
-    {
-      "fingerprint": "aa3eccc3acace08c1825d7b786475b10d32a943906856b34d507b00a89f2402b",
-      "source": "TechCrunch AI",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
-      "publishedAt": "2026-10-22T18:43:53+00:00",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
-    },
-    {
-      "fingerprint": "865fbfdb43303cdb118b1076721a36268e18d71704f789c35e33fb6125535a1c",
-      "source": "TechCrunch AI",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
-      "publishedAt": "2026-10-22T16:47:17+00:00",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
-    },
-    {
-      "fingerprint": "2fea4d0c4c90501f64eb7b35c089dc89ff095151857e34bb763834740bf14f08",
-      "source": "Hugging Face",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "publishedAt": "2026-10-22T16:11:31+00:00",
-      "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
     }
   ]
 }
