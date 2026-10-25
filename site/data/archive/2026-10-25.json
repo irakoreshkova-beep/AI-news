@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T09:29:01.533340+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "badb8ba1693dc7d018c3add8464aeb1a3111e04c27ec712b508d54f57e6f6286",
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "publishedAt": "2026-10-24T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "fingerprint": "cdaaf41e1fa41fb882cdc6c1616dab66eb82f049cafffa47c9c25227ec25693b",
+      "source": "TechCrunch AI",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "publishedAt": "2026-10-24T16:00:00+00:00",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "fingerprint": "9aa03389cf5939bac31bf3e8954ccf2a521281d0e9ca8554f430f31eb187d613",
+      "source": "TechCrunch AI",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "fingerprint": "506ab4aa7f4aa39d359cc2a261464d9acc6de8fdd37794534f5fd349684e89ec",
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    }
+  ]
+}
