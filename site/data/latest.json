@@ -1,41 +1,33 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T09:29:01.533340+00:00",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T10:37:24.451436+00:00",
   "sources": [
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "badb8ba1693dc7d018c3add8464aeb1a3111e04c27ec712b508d54f57e6f6286",
+      "fingerprint": "501817b27535be15131981d2a2677bf8c3c6a1e6216b590fc412d92e2ac77341",
       "source": "TechCrunch AI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "publishedAt": "2026-10-24T19:00:00+00:00",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "publishedAt": "2026-10-25T21:31:16+00:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
     },
     {
-      "fingerprint": "cdaaf41e1fa41fb882cdc6c1616dab66eb82f049cafffa47c9c25227ec25693b",
+      "fingerprint": "8b0d88b422107923c42d106230327d47aeca5e3e235c28d7395537af4faefddf",
       "source": "TechCrunch AI",
-      "title": "Block’s new voice model sounds eerily human",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-      "publishedAt": "2026-10-24T16:00:00+00:00",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "publishedAt": "2026-10-25T16:57:32+00:00",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
     },
     {
-      "fingerprint": "9aa03389cf5939bac31bf3e8954ccf2a521281d0e9ca8554f430f31eb187d613",
+      "fingerprint": "d037e19f4f883f1a64843765d9e958a30b8184a6b609d3291f1b0e2d9664303a",
       "source": "TechCrunch AI",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "publishedAt": "2026-10-24T15:00:00+00:00",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-    },
-    {
-      "fingerprint": "506ab4aa7f4aa39d359cc2a261464d9acc6de8fdd37794534f5fd349684e89ec",
-      "source": "TechCrunch AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "publishedAt": "2026-10-24T14:00:00+00:00",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
     }
   ]
 }
