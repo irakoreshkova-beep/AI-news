@@ -1,107 +1,105 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T10:53:05.935777+00:00",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T11:09:58.215281+00:00",
   "sources": [
-    "Hugging Face",
-    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "bf91231d2b65d01895cd6702edad6de054197af1e38ed351b24e75aebb1261aa",
-      "source": "OpenAI",
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "publishedAt": "2026-10-28T09:30:00+00:00",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
-    },
-    {
-      "fingerprint": "3719f316a9a3c8908e84ece35c742cb0445a8d5931866efcdf776ad121db4bdd",
+      "fingerprint": "cd5278efd7bdb38d9d8636c3133a3701931b7f0db970a373937b0d902585ec05",
       "source": "TechCrunch AI",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "publishedAt": "2026-10-28T01:15:28+00:00",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "publishedAt": "2026-10-28T21:58:32+00:00",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
     },
     {
-      "fingerprint": "22921048b4f9c76e709d09e2c7bea542699d2bb360caf9dfe2a9fb3c8cb0bfb8",
+      "fingerprint": "4e5afb8b0297f53a7f81fa71cd68d8ec0a0abdecce015aa41bc70ac8052bb275",
       "source": "TechCrunch AI",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "publishedAt": "2026-10-27T23:34:27+00:00",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
     },
     {
-      "fingerprint": "4722fab0bbac8eefc9e118f52cce6e76392e507934ab3d1fc1ce58ff64a39994",
+      "fingerprint": "263cf9c2754488f619dbc42b45a6164d8946d45b0061891b16da1b9bbf23dd3d",
       "source": "TechCrunch AI",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-      "publishedAt": "2026-10-27T22:55:41+00:00",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
     },
     {
-      "fingerprint": "7ea874e4e7a582c0b5439677699e9b57891230eaebe931325cb73159fc631ccc",
+      "fingerprint": "bc43477d7698773a24444d1983ce3bf8b27f3ef420e3c888f29cbd0fb08b84c0",
       "source": "TechCrunch AI",
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
-      "publishedAt": "2026-10-27T21:44:34+00:00",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "publishedAt": "2026-10-28T21:25:30+00:00",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
     },
     {
-      "fingerprint": "da48ddf3a9fbf422767bdc5267e178ee4a97ba4b711079eabe4392b0436923fa",
+      "fingerprint": "113b9e0b63c678a49dbaa916458b74c73038a1a5dde5c83a7f3c1612d6a89e60",
       "source": "TechCrunch AI",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
-      "publishedAt": "2026-10-27T21:38:28+00:00",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "publishedAt": "2026-10-28T19:19:58+00:00",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
     },
     {
-      "fingerprint": "40221298d3cd9bfae8725e21e761e5544e063596e05996136af9171398aabf07",
+      "fingerprint": "41491c1482c7db91f3c0b4be6fd0ce39a7c969573e0e13b989ef13558097e30c",
       "source": "TechCrunch AI",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
-      "publishedAt": "2026-10-27T18:55:35+00:00",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "publishedAt": "2026-10-28T19:05:46+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking s..."
     },
     {
-      "fingerprint": "581045683799c274f17f78d8554cd5b6edcab86a3ec0dbd0a18fab8464c47ce0",
-      "source": "Hugging Face",
-      "title": "Build specialized multimodal models with LFM3",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "publishedAt": "2026-10-27T17:16:52+00:00",
-      "summary": "Build specialized multimodal models with LFM3"
-    },
-    {
-      "fingerprint": "3327baa23770c26e69d56db2fbba83292bb2211861ebb75cdb1d5bd648008269",
+      "fingerprint": "344532c95e897596f4b880024342fadfbacfe783e34af8356cad9fbd659f6ded",
       "source": "TechCrunch AI",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-      "publishedAt": "2026-10-27T17:08:08+00:00",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "publishedAt": "2026-10-28T18:50:39+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking s..."
     },
     {
-      "fingerprint": "0de791627df19046d28d1861a7145d73f740d0d16014bb6f9054c0a4983432e4",
+      "fingerprint": "38f157b10464a495aef575dd450a2f976ea721279a1182b7f1e5c0638e6a7ba3",
       "source": "TechCrunch AI",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
-      "publishedAt": "2026-10-27T16:30:57+00:00",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
     },
     {
-      "fingerprint": "adc6abec17b18a5b768554ed845b4fba124db48b44d28aa9f997ef27adfb6675",
-      "source": "Hugging Face",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "link": "https://huggingface.co/blog/allenai/novelty-bench",
-      "publishedAt": "2026-10-27T16:12:42+00:00",
-      "summary": "Can we trust LLMs to judge whether a research idea is novel?"
+      "fingerprint": "2434d3ff7e0b79af6ccd304ecc1438eaf4e3821061d430f21024850987017d13",
+      "source": "TechCrunch AI",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
     },
     {
-      "fingerprint": "d37edfea13a20bcd90a3eaac18a707e955a56a323770afe576314ebc266c75cb",
-      "source": "OpenAI",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "publishedAt": "2026-10-27T15:00:00+00:00",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      "fingerprint": "9d8e90171b276a7228074e936b111b5ceab97cc8641539c723fce16f80a9004e",
+      "source": "TechCrunch AI",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "publishedAt": "2026-10-28T15:53:52+00:00",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+    },
+    {
+      "fingerprint": "b2276589b75a7b934bd4e5c2a94788ad7c15c4b5b2ac2b5b4adca7bfcdc372f7",
+      "source": "TechCrunch AI",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+      "publishedAt": "2026-10-28T15:41:18+00:00",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+    },
+    {
+      "fingerprint": "cbf2546c0359cfdf92156c69bf553eebe7bf20194d17828ba9bcec0b0ac4ea47",
+      "source": "TechCrunch AI",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "publishedAt": "2026-10-28T15:00:00+00:00",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to..."
     }
   ]
 }

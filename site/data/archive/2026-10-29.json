@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T11:09:58.215281+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "cd5278efd7bdb38d9d8636c3133a3701931b7f0db970a373937b0d902585ec05",
+      "source": "TechCrunch AI",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "publishedAt": "2026-10-28T21:58:32+00:00",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+    },
+    {
+      "fingerprint": "4e5afb8b0297f53a7f81fa71cd68d8ec0a0abdecce015aa41bc70ac8052bb275",
+      "source": "TechCrunch AI",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+    },
+    {
+      "fingerprint": "263cf9c2754488f619dbc42b45a6164d8946d45b0061891b16da1b9bbf23dd3d",
+      "source": "TechCrunch AI",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+    },
+    {
+      "fingerprint": "bc43477d7698773a24444d1983ce3bf8b27f3ef420e3c888f29cbd0fb08b84c0",
+      "source": "TechCrunch AI",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "publishedAt": "2026-10-28T21:25:30+00:00",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+    },
+    {
+      "fingerprint": "113b9e0b63c678a49dbaa916458b74c73038a1a5dde5c83a7f3c1612d6a89e60",
+      "source": "TechCrunch AI",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "publishedAt": "2026-10-28T19:19:58+00:00",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+    },
+    {
+      "fingerprint": "41491c1482c7db91f3c0b4be6fd0ce39a7c969573e0e13b989ef13558097e30c",
+      "source": "TechCrunch AI",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "publishedAt": "2026-10-28T19:05:46+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking s..."
+    },
+    {
+      "fingerprint": "344532c95e897596f4b880024342fadfbacfe783e34af8356cad9fbd659f6ded",
+      "source": "TechCrunch AI",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "publishedAt": "2026-10-28T18:50:39+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking s..."
+    },
+    {
+      "fingerprint": "38f157b10464a495aef575dd450a2f976ea721279a1182b7f1e5c0638e6a7ba3",
+      "source": "TechCrunch AI",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+    },
+    {
+      "fingerprint": "2434d3ff7e0b79af6ccd304ecc1438eaf4e3821061d430f21024850987017d13",
+      "source": "TechCrunch AI",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+    },
+    {
+      "fingerprint": "9d8e90171b276a7228074e936b111b5ceab97cc8641539c723fce16f80a9004e",
+      "source": "TechCrunch AI",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "publishedAt": "2026-10-28T15:53:52+00:00",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+    },
+    {
+      "fingerprint": "b2276589b75a7b934bd4e5c2a94788ad7c15c4b5b2ac2b5b4adca7bfcdc372f7",
+      "source": "TechCrunch AI",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+      "publishedAt": "2026-10-28T15:41:18+00:00",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+    },
+    {
+      "fingerprint": "cbf2546c0359cfdf92156c69bf553eebe7bf20194d17828ba9bcec0b0ac4ea47",
+      "source": "TechCrunch AI",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+      "publishedAt": "2026-10-28T15:00:00+00:00",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to..."
+    }
+  ]
+}
