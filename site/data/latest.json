@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T11:04:38.904592+00:00",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T10:38:57.490494+00:00",
   "sources": [
-    "OpenAI",
+    "Hugging Face",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "efa5dbc1af6d886b4b717ddc362227bdb0dd110c8ef23717301e19f07ba4b0f8",
+      "fingerprint": "2ee7f977120b68108814094e582e047c66f2ed4e0083863ae4fc06435fe05961",
       "source": "TechCrunch AI",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
-      "publishedAt": "2026-10-30T01:20:48+00:00",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "publishedAt": "2026-10-31T01:20:05+00:00",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
     },
     {
-      "fingerprint": "0f4ece1eb9b58cc57c8647410db24e7a01e55d52c084695aed895861e0ac46bb",
+      "fingerprint": "7210627baca682303cfafae3c581702efcf833642b5b4dcc1edc7c5604d5267d",
       "source": "TechCrunch AI",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "publishedAt": "2026-10-29T23:42:22+00:00",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "publishedAt": "2026-10-30T22:56:13+00:00",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
     },
     {
-      "fingerprint": "7843e9359f377833ce7cd3e03a23995b29e1d8d0fdea91024da2d0b5194a4917",
+      "fingerprint": "714fb47acaf464ca34a9f3b5087b8b204f579a2007ad07d6b5566d5ad6c0ef38",
       "source": "TechCrunch AI",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "publishedAt": "2026-10-29T20:08:31+00:00",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+      "publishedAt": "2026-10-30T21:54:34+00:00",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
     },
     {
-      "fingerprint": "ee4f17d9cc7855733e81fa4fafb2e6d6f2967bebd682b488a3f28369223e0d3d",
+      "fingerprint": "8c74fad8e771f20151cc386c7882190bad74ff10375254764684072c4150d57c",
       "source": "TechCrunch AI",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-      "publishedAt": "2026-10-29T20:05:47+00:00",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "publishedAt": "2026-10-30T21:52:03+00:00",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
     },
     {
-      "fingerprint": "a7dc108e68ad33d08a34304c84fbcbece63ca6e779d9cf4f7411e4074a959d63",
+      "fingerprint": "5f723af441756f2ee4aa490af14788b0d93b07789595d9e12369f0179b218f82",
       "source": "TechCrunch AI",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "publishedAt": "2026-10-29T19:56:19+00:00",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+      "publishedAt": "2026-10-30T21:26:59+00:00",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
     },
     {
-      "fingerprint": "44a786dcf5cbdc504c5cf0e9d921b1e36df37207d128cdf4629b311c353eecc3",
+      "fingerprint": "d0bf063bf854078c051b92e1b32739166328013e83d7546c543427315fd80c4f",
       "source": "TechCrunch AI",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-      "publishedAt": "2026-10-29T19:14:36+00:00",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "publishedAt": "2026-10-30T21:17:40+00:00",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
     },
     {
-      "fingerprint": "f6a0aeff3e4d0dfd227ad6c4ff2adf43c142983fc910471c62b5469620e5297b",
-      "source": "TechCrunch AI",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
-      "publishedAt": "2026-10-29T17:54:38+00:00",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
+      "fingerprint": "052268ee5a0872812c73a554e9e4f15fa9d50514125048a5e3105875c0fb0c56",
+      "source": "Hugging Face",
+      "title": "nemotron-halloween",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "publishedAt": "2026-10-30T17:57:24+00:00",
+      "summary": "nemotron-halloween"
     },
     {
-      "fingerprint": "5ef69bd57a82ddf8f970a336120d0a13ba225a8a564f551f26d5e0721c9bcea4",
-      "source": "OpenAI",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "publishedAt": "2026-10-29T17:00:00+00:00",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      "fingerprint": "24228110de6b324dae5cd36197b05b9a79b7708f30c280a2f4037ac95feb0df9",
+      "source": "TechCrunch AI",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "publishedAt": "2026-10-30T17:47:12+00:00",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
     },
     {
-      "fingerprint": "3e5d3e5e1bb5a28a4631b0985afaf48b5004da496b176e3f51122b1fd4968fa1",
+      "fingerprint": "dc337d9edcda3d2454764069afea5dbf23339b380d1c60ffd3acbf45093cf55f",
       "source": "TechCrunch AI",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "publishedAt": "2026-10-29T17:00:00+00:00",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "publishedAt": "2026-10-30T17:00:00+00:00",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
     },
     {
-      "fingerprint": "ff32bd3459549dcd73e392f71d429a6135172138a1ab35456ea016e8eeb9d447",
+      "fingerprint": "234228cdde0fbaffc5dcfcd1a043fa6e6406009ce218f251e50a6745634225f8",
       "source": "TechCrunch AI",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
-      "publishedAt": "2026-10-29T16:42:32+00:00",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "publishedAt": "2026-10-30T16:03:45+00:00",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
     },
     {
-      "fingerprint": "f4575de2088391febc9487e29c07a60a4df9c7d2401c350dfdc0b83ddf83ff40",
+      "fingerprint": "4ca3947f56e92cf4b69464853719858504ece457b4b5bc58615a3d14f3a689a0",
       "source": "TechCrunch AI",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
-      "publishedAt": "2026-10-29T16:21:00+00:00",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Reg..."
     },
     {
-      "fingerprint": "0a08ef90bb1ed41016a4f8494e594d2e5ecbf703fa158f5f62c99bdec37d5529",
+      "fingerprint": "8ed3e200aac78b49324a78408c9e34b4d0799002ce653b82c647ea7116b3aab0",
       "source": "TechCrunch AI",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
-      "publishedAt": "2026-10-29T14:35:26+00:00",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "publishedAt": "2026-10-30T13:54:25+00:00",
+      "summary": "DoorDash said that it is open to working with third-party agent makers."
     }
   ]
 }
