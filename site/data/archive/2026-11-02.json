@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T12:56:37.313830+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "880d032c2e0ad3c4bfbd688cbc465293bf0960df42196ccc0649351d355a2bce",
+      "source": "TechCrunch AI",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "fingerprint": "d79d7e9fcffce97f784ae4d9927dac4dfb5a022a5435f471588b12e6e611fc5a",
+      "source": "TechCrunch AI",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "publishedAt": "2026-11-01T20:57:58+00:00",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    }
+  ]
+}
