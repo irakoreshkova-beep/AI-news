@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T12:28:02.271119+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "6e7ba6c66846bf0ca45579fcd8d293c5c8769d3cd15c8d45e70d78c4db8dcac5",
+      "source": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+    },
+    {
+      "fingerprint": "06530e93a9940732a1634388b8383ad660245a082e1d248a71949d4578a705ab",
+      "source": "TechCrunch AI",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+      "publishedAt": "2026-11-03T07:20:00+00:00",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+    },
+    {
+      "fingerprint": "3e55d2a7c1e9653c5566fa0c2a12c8771bc08f790621a6001aa5c333d8590ab4",
+      "source": "TechCrunch AI",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+      "publishedAt": "2026-11-03T03:30:00+00:00",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "fingerprint": "507f5581a4119e7eb7bb3504b03227e1dc7edcdec530e73245a1eb73dcdce8f9",
+      "source": "TechCrunch AI",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+      "publishedAt": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    },
+    {
+      "fingerprint": "4818d2b0f21cd29e3d7851a2524cba2902a6536fa0bd0a312aff6029c6e9c0d6",
+      "source": "TechCrunch AI",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+      "publishedAt": "2026-11-03T00:35:52+00:00",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan..."
+    },
+    {
+      "fingerprint": "ad15ae424919c1a90354ec9b79477f5e507eed9cff903f3d77bf7533922b5170",
+      "source": "Hugging Face",
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "publishedAt": "2026-11-03T00:00:00+00:00",
+      "summary": "Transformers Model Integration Contracts"
+    },
+    {
+      "fingerprint": "b72a0ab2f93e7c8085db5aae14670fd6ebce8afc8d12140e7691b0486fae587c",
+      "source": "TechCrunch AI",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "publishedAt": "2026-11-02T23:13:53+00:00",
+      "summary": "The one-year-old startup is now valued at $300 million."
+    },
+    {
+      "fingerprint": "dce90317f8ad33884262a076e30b6ed8e801c81b54187f4865f7043171aff54f",
+      "source": "TechCrunch AI",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "publishedAt": "2026-11-02T22:14:50+00:00",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+    },
+    {
+      "fingerprint": "2df4ef5ab2f479a12421dfd425188a759fd4de591e5f72b0d328e4122260f211",
+      "source": "TechCrunch AI",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+      "publishedAt": "2026-11-02T19:25:59+00:00",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+    },
+    {
+      "fingerprint": "b39c1d2742fafe7636444e032ddf8129c5f1df6a08a872f7adbe3305f8044a9e",
+      "source": "TechCrunch AI",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "publishedAt": "2026-11-02T19:19:17+00:00",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
+    },
+    {
+      "fingerprint": "3c92ddf1f72755ff7b33b5010c7b22af79c9df6b2fd913dc1b24971d1207ed82",
+      "source": "OpenAI",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+    },
+    {
+      "fingerprint": "06927a556906a0ed18b37b94a0137f91a6e360419054a4d34f8876343a100706",
+      "source": "OpenAI",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+    }
+  ]
+}
