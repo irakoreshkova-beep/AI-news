@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T12:39:17.107367+00:00",
+  "sources": [
+    "Hugging Face",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "323160cf2423d532591c3756404993cf8c8024cf6a4fa3f8ab7478f2f5312c40",
+      "source": "TechCrunch AI",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "publishedAt": "2026-11-03T22:41:03+00:00",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+    },
+    {
+      "fingerprint": "f5cd407585e0cb95ddcb9afe1098a5b383e1134f8c19038f0927f93fda3c2dfb",
+      "source": "TechCrunch AI",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "publishedAt": "2026-11-03T22:19:53+00:00",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+    },
+    {
+      "fingerprint": "53c7bdd79e1f18f5d422cc2a12074d3a684f39674151f0db9786dc8c9e2a4b84",
+      "source": "TechCrunch AI",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "publishedAt": "2026-11-03T21:43:08+00:00",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+    },
+    {
+      "fingerprint": "bf078944cf1864fd2e5aa87b06e7e7162b41be6f32739f5d134d07ce28bd061d",
+      "source": "TechCrunch AI",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "publishedAt": "2026-11-03T21:05:55+00:00",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+    },
+    {
+      "fingerprint": "b25cf22edb0c59466cedb277800b97d299272048f9bc692c84a1c18bae0d182b",
+      "source": "TechCrunch AI",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "publishedAt": "2026-11-03T19:34:43+00:00",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+    },
+    {
+      "fingerprint": "9f77e31d2c30814d44c4de44190a8e119edef34f85fd8276b5cd8d28d0f95fe1",
+      "source": "TechCrunch AI",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "publishedAt": "2026-11-03T18:42:16+00:00",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+    },
+    {
+      "fingerprint": "c5b3569c5886ede1e89ad523439da429c9a298fab295f572f200cf67758b50a9",
+      "source": "Hugging Face",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "publishedAt": "2026-11-03T17:15:21+00:00",
+      "summary": "StateBench: Testing how language models track state changes over long documents"
+    },
+    {
+      "fingerprint": "98b862ed46b435af16bd7f92dea7f558b1bfd08c58b423d5d7fbf1dcc883bbb5",
+      "source": "TechCrunch AI",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "publishedAt": "2026-11-03T17:07:01+00:00",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+    },
+    {
+      "fingerprint": "baeb1eb0ac6f70204c68181c36b8f86f668cc96702f9b58f725fd8e72b7ba046",
+      "source": "Hugging Face",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "publishedAt": "2026-11-03T16:35:36+00:00",
+      "summary": "Palette: teaching a small model to build decks in your design language"
+    },
+    {
+      "fingerprint": "c651ab7fb24e05b428140d8784b20b8964f404b00e937ba7be10caf01eb8bcf6",
+      "source": "TechCrunch AI",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+      "publishedAt": "2026-11-03T16:30:34+00:00",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+    },
+    {
+      "fingerprint": "3fbf2c9af37ba3991e5fec71bd32ded82355ea2dad5e9ea8cd4722db509c2d77",
+      "source": "TechCrunch AI",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+      "publishedAt": "2026-11-03T15:38:27+00:00",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+    },
+    {
+      "fingerprint": "5266433cef314d023850bbfd58ebf01edc22f0970a99b4583ec8689b35d5b736",
+      "source": "TechCrunch AI",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
+      "publishedAt": "2026-11-03T14:30:00+00:00",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+    }
+  ]
+}

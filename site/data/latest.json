@@ -1,107 +1,106 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T12:28:02.271119+00:00",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T12:39:17.107367+00:00",
   "sources": [
     "Hugging Face",
-    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "6e7ba6c66846bf0ca45579fcd8d293c5c8769d3cd15c8d45e70d78c4db8dcac5",
-      "source": "OpenAI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "publishedAt": "2026-11-03T08:00:00+00:00",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "fingerprint": "06530e93a9940732a1634388b8383ad660245a082e1d248a71949d4578a705ab",
+      "fingerprint": "323160cf2423d532591c3756404993cf8c8024cf6a4fa3f8ab7478f2f5312c40",
       "source": "TechCrunch AI",
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
-      "publishedAt": "2026-11-03T07:20:00+00:00",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "publishedAt": "2026-11-03T22:41:03+00:00",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
     },
     {
-      "fingerprint": "3e55d2a7c1e9653c5566fa0c2a12c8771bc08f790621a6001aa5c333d8590ab4",
+      "fingerprint": "f5cd407585e0cb95ddcb9afe1098a5b383e1134f8c19038f0927f93fda3c2dfb",
       "source": "TechCrunch AI",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
-      "publishedAt": "2026-11-03T03:30:00+00:00",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "publishedAt": "2026-11-03T22:19:53+00:00",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
     },
     {
-      "fingerprint": "507f5581a4119e7eb7bb3504b03227e1dc7edcdec530e73245a1eb73dcdce8f9",
+      "fingerprint": "53c7bdd79e1f18f5d422cc2a12074d3a684f39674151f0db9786dc8c9e2a4b84",
       "source": "TechCrunch AI",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
-      "publishedAt": "2026-11-03T01:49:52+00:00",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "publishedAt": "2026-11-03T21:43:08+00:00",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
     },
     {
-      "fingerprint": "4818d2b0f21cd29e3d7851a2524cba2902a6536fa0bd0a312aff6029c6e9c0d6",
+      "fingerprint": "bf078944cf1864fd2e5aa87b06e7e7162b41be6f32739f5d134d07ce28bd061d",
       "source": "TechCrunch AI",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-      "publishedAt": "2026-11-03T00:35:52+00:00",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan..."
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "publishedAt": "2026-11-03T21:05:55+00:00",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
     },
     {
-      "fingerprint": "ad15ae424919c1a90354ec9b79477f5e507eed9cff903f3d77bf7533922b5170",
+      "fingerprint": "b25cf22edb0c59466cedb277800b97d299272048f9bc692c84a1c18bae0d182b",
+      "source": "TechCrunch AI",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "publishedAt": "2026-11-03T19:34:43+00:00",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+    },
+    {
+      "fingerprint": "9f77e31d2c30814d44c4de44190a8e119edef34f85fd8276b5cd8d28d0f95fe1",
+      "source": "TechCrunch AI",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "publishedAt": "2026-11-03T18:42:16+00:00",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+    },
+    {
+      "fingerprint": "c5b3569c5886ede1e89ad523439da429c9a298fab295f572f200cf67758b50a9",
       "source": "Hugging Face",
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "summary": "Transformers Model Integration Contracts"
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "publishedAt": "2026-11-03T17:15:21+00:00",
+      "summary": "StateBench: Testing how language models track state changes over long documents"
     },
     {
-      "fingerprint": "b72a0ab2f93e7c8085db5aae14670fd6ebce8afc8d12140e7691b0486fae587c",
+      "fingerprint": "98b862ed46b435af16bd7f92dea7f558b1bfd08c58b423d5d7fbf1dcc883bbb5",
       "source": "TechCrunch AI",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-      "publishedAt": "2026-11-02T23:13:53+00:00",
-      "summary": "The one-year-old startup is now valued at $300 million."
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "publishedAt": "2026-11-03T17:07:01+00:00",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
     },
     {
-      "fingerprint": "dce90317f8ad33884262a076e30b6ed8e801c81b54187f4865f7043171aff54f",
+      "fingerprint": "baeb1eb0ac6f70204c68181c36b8f86f668cc96702f9b58f725fd8e72b7ba046",
+      "source": "Hugging Face",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "publishedAt": "2026-11-03T16:35:36+00:00",
+      "summary": "Palette: teaching a small model to build decks in your design language"
+    },
+    {
+      "fingerprint": "c651ab7fb24e05b428140d8784b20b8964f404b00e937ba7be10caf01eb8bcf6",
       "source": "TechCrunch AI",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-      "publishedAt": "2026-11-02T22:14:50+00:00",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+      "publishedAt": "2026-11-03T16:30:34+00:00",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
     },
     {
-      "fingerprint": "2df4ef5ab2f479a12421dfd425188a759fd4de591e5f72b0d328e4122260f211",
+      "fingerprint": "3fbf2c9af37ba3991e5fec71bd32ded82355ea2dad5e9ea8cd4722db509c2d77",
       "source": "TechCrunch AI",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
-      "publishedAt": "2026-11-02T19:25:59+00:00",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+      "publishedAt": "2026-11-03T15:38:27+00:00",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
     },
     {
-      "fingerprint": "b39c1d2742fafe7636444e032ddf8129c5f1df6a08a872f7adbe3305f8044a9e",
+      "fingerprint": "5266433cef314d023850bbfd58ebf01edc22f0970a99b4583ec8689b35d5b736",
       "source": "TechCrunch AI",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
-      "publishedAt": "2026-11-02T19:19:17+00:00",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity."
-    },
-    {
-      "fingerprint": "3c92ddf1f72755ff7b33b5010c7b22af79c9df6b2fd913dc1b24971d1207ed82",
-      "source": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-    },
-    {
-      "fingerprint": "06927a556906a0ed18b37b94a0137f91a6e360419054a4d34f8876343a100706",
-      "source": "OpenAI",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
+      "publishedAt": "2026-11-03T14:30:00+00:00",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
     }
   ]
 }
