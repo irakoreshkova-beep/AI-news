@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T12:49:40.564948+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "e996c49411d6b42274c4a7c0e5f30ca1ec9bbf0ef93a9a47b26b75a68360a1d2",
+      "source": "TechCrunch AI",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+      "publishedAt": "2026-11-05T12:00:00+00:00",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+    },
+    {
+      "fingerprint": "8d6038a13ecb7dddd3fbae6037a4f56028ec79158f1e03697eb8cb205ad600c5",
+      "source": "OpenAI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "publishedAt": "2026-11-05T02:00:00+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
+    {
+      "fingerprint": "d6d36afd4916189167af0637c59c2087bdf98aa783f3d92f1ccb87dba8046059",
+      "source": "TechCrunch AI",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "publishedAt": "2026-11-05T01:26:22+00:00",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+    },
+    {
+      "fingerprint": "7359215bc35878f1cfaa322740468daa61c1a3efe156e4a9d9b938779f912304",
+      "source": "TechCrunch AI",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "publishedAt": "2026-11-05T01:02:14+00:00",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
+    },
+    {
+      "fingerprint": "b2a90493faba647e7221eb1e37aa30041e87162be90cc06604a4d69e0755f5e7",
+      "source": "Hugging Face",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "publishedAt": "2026-11-05T00:00:00+00:00",
+      "summary": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks."
+    },
+    {
+      "fingerprint": "a7fdced3f7ee719aeb9e0a05ad09eeb3fc7a922c412052cd829c7c19543dea9a",
+      "source": "TechCrunch AI",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+      "publishedAt": "2026-11-04T22:45:09+00:00",
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+    },
+    {
+      "fingerprint": "bfa0a684675171df35842fa781578cbec47553d584d9559ebe0185b349d11b32",
+      "source": "TechCrunch AI",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "publishedAt": "2026-11-04T22:13:16+00:00",
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+    },
+    {
+      "fingerprint": "8494c2a34879270dbf4d816ff19ec2eea47cb1d3b5b0099dff4a7bbe87a7973e",
+      "source": "TechCrunch AI",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+      "publishedAt": "2026-11-04T21:56:01+00:00",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+    },
+    {
+      "fingerprint": "7fd1fb8f79c347e3acb356f686293a6d0d88bc6ea78226f2df7042986f7c6336",
+      "source": "TechCrunch AI",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "publishedAt": "2026-11-04T21:25:44+00:00",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+    },
+    {
+      "fingerprint": "db228e6bc96d15611da3aa97301532b025512e10f2a0ff78e2453a25c876dce0",
+      "source": "TechCrunch AI",
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "publishedAt": "2026-11-04T21:10:56+00:00",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+    },
+    {
+      "fingerprint": "d7105e77a0a66a47492743ee7b5f7d25ea63a19c1be5e9cc45d4309b2e9f1f9f",
+      "source": "TechCrunch AI",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "publishedAt": "2026-11-04T19:30:04+00:00",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how d..."
+    },
+    {
+      "fingerprint": "cd67079a4b4d65d566e3338928364bb40ba0ffbcc97357224334cd0b7db9a52a",
+      "source": "TechCrunch AI",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "publishedAt": "2026-11-04T19:29:52+00:00",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+    }
+  ]
+}
