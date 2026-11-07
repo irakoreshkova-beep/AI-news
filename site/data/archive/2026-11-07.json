@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T11:23:55.232307+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "039a349704c22ade411c23c930ce5ec1186b1515b01786eb760ccab017ab37bb",
+      "source": "TechCrunch AI",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "publishedAt": "2026-11-07T01:40:28+00:00",
+      "summary": "The deal highlights the challenges of developing massive AI data centers."
+    },
+    {
+      "fingerprint": "542469a68f61b95f3e26e3c44696695aab8136079eaaa9f8b9cef7f23d52046f",
+      "source": "TechCrunch AI",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "publishedAt": "2026-11-06T22:53:46+00:00",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+    },
+    {
+      "fingerprint": "92b4ad61a208b521fecf7f2683f5acef1fd8085f09adc5c369746492a1158d8c",
+      "source": "TechCrunch AI",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "publishedAt": "2026-11-06T18:44:38+00:00",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+    },
+    {
+      "fingerprint": "7373e26a7729a4bca8e8764c8c4bc0ce45edc317679e24fbf1d70e7000dd2d76",
+      "source": "TechCrunch AI",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "publishedAt": "2026-11-06T18:44:20+00:00",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+    },
+    {
+      "fingerprint": "c3c3096eab366e848f912340dd3e5a25043df9e0dd023a7ea32878b084b784c0",
+      "source": "TechCrunch AI",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "publishedAt": "2026-11-06T18:00:00+00:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restric..."
+    },
+    {
+      "fingerprint": "167f8483da9ae6ad0a1a08ed21692e4afe8d03ed496b5e126463da50678bbdca",
+      "source": "TechCrunch AI",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+      "publishedAt": "2026-11-06T17:23:52+00:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restric..."
+    },
+    {
+      "fingerprint": "41795f17261dec4c0ad94087e8c26ff35a82010ceb4150c6e090728b67dfb218",
+      "source": "TechCrunch AI",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "publishedAt": "2026-11-06T15:54:47+00:00",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
+      "fingerprint": "f97f0bff8f0983352bcad9af06696f68a2d045fc79ff58bbab47f8c9afcd68b4",
+      "source": "TechCrunch AI",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+      "publishedAt": "2026-11-06T14:10:00+00:00",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
+    },
+    {
+      "fingerprint": "5c8ae0c9c1ae6cd17acf47a4eb02a35068c3e783432ee89b69fa8138d0bec003",
+      "source": "Hugging Face",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "publishedAt": "2026-11-06T14:00:48+00:00",
+      "summary": "ToyBlocks: A controlled world for robot learning and evaluation"
+    },
+    {
+      "fingerprint": "3145e71d4acf3baddd13e92b15134df28e80f04cea705b4219dcd1da4887026b",
+      "source": "TechCrunch AI",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+      "publishedAt": "2026-11-06T13:02:16+00:00",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+    },
+    {
+      "fingerprint": "685f87f33ee9a36003d25f1ee185ec0f80c55ee482bf9e767ba0456ed1852683",
+      "source": "TechCrunch AI",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+      "publishedAt": "2026-11-06T13:00:00+00:00",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+    },
+    {
+      "fingerprint": "52e93e4395ebba8f399ad1f0637adde4ba194cb224aa94ceaf3c16d986aa1b88",
+      "source": "OpenAI",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    }
+  ]
+}
