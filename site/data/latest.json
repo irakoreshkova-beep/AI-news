@@ -1,25 +1,34 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T11:35:40.247889+00:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T13:27:55.730893+00:00",
   "sources": [
+    "Hugging Face",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "c645712ffbaf51b94216a313a707d62a849723eaedf6a1fd8d5fcd253f048522",
-      "source": "TechCrunch AI",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
-      "publishedAt": "2026-11-07T22:07:22+00:00",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+      "fingerprint": "20c524355322a63c5a9b443a476790b9b3624bf85609288ec60a08aeb4e27e1b",
+      "source": "Hugging Face",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "publishedAt": "2026-11-09T12:34:29+00:00",
+      "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together"
     },
     {
-      "fingerprint": "db07a922cfc73e03904d008cfdfb6d11dbc45e4fca7b0b6e3692ec707f14e87a",
+      "fingerprint": "0c363f85b4b2e156dfecaaa7d87b081580c9bdc0b2fc7e878796886fdb1b63d0",
       "source": "TechCrunch AI",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-      "publishedAt": "2026-11-07T21:17:08+00:00",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+      "publishedAt": "2026-11-09T05:26:29+00:00",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+    },
+    {
+      "fingerprint": "3f0e36362001681307f4bf147954039f337a81e3a78ec1622379b33b8a014338",
+      "source": "TechCrunch AI",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "publishedAt": "2026-11-08T21:00:11+00:00",
+      "summary": "In a memo to the company, Huang admitted that he had an affair."
     }
   ]
 }
