@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T13:06:59.226057+00:00",
+  "sources": [
+    "Anthropic",
+    "Google DeepMind",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "2f77f6ed6d74716bf9b3342165fdc41ec3a8980e3ac93d661c4589a78b2e9773",
+      "source": "Google DeepMind",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+    },
+    {
+      "fingerprint": "d0edc5f4e0f88c1fe8ef5500dc5ceafb09530c56e59c6231976e5c16bf1d2dd2",
+      "source": "TechCrunch AI",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+    },
+    {
+      "fingerprint": "3c23d3a0f1627c841f4cf12246c5f558e046f57b58102bbeab0e0a439f27011f",
+      "source": "OpenAI",
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "publishedAt": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "fingerprint": "a1155855f58069c0b7011fbd70ff2bf72e7e749ac26ee4623dfe9471cf0cb935",
+      "source": "OpenAI",
+      "title": "Closing the AI guidance gap in education",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "publishedAt": "2026-11-10T09:00:00+00:00",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "fingerprint": "a5860aa5d3d19db6632b7dbf92694cdb6068c291e06c6aeabdb4e96d32be580a",
+      "source": "TechCrunch AI",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+      "publishedAt": "2026-11-10T07:00:00+00:00",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+    },
+    {
+      "fingerprint": "b62630dbe28c6489686ada041bcc4951243003fde8bb7610cfe99318b621e38a",
+      "source": "TechCrunch AI",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "publishedAt": "2026-11-10T01:27:12+00:00",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+    },
+    {
+      "fingerprint": "1ecc544b18afbac65a956cf534a75b1348c2b4a3a418b07db6a3401a24b3deee",
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "publishedAt": "2026-11-10T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "fingerprint": "8462ca2833ced638c6eef23b9b38881e5b2831c010db0ed1afa02a2a7f053e86",
+      "source": "Anthropic",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "publishedAt": "2026-11-10T00:00:00+00:00",
+      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
+    },
+    {
+      "fingerprint": "33d93d15dc90fc5c82d7e4194b0f3427c2d2e4d91b8eb09d7e792f6e3e498cf4",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+      "publishedAt": "2026-11-09T23:28:37+00:00",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+    },
+    {
+      "fingerprint": "e465467e34d1a37f9baaa1eaba00032e06fd0369125d37821f51158b513fe4e6",
+      "source": "TechCrunch AI",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+      "publishedAt": "2026-11-09T22:46:09+00:00",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+    },
+    {
+      "fingerprint": "8680fbe3f97dcef63e7b9257f0f378b7a1956cf0fc8976a795d6655d52085b7b",
+      "source": "TechCrunch AI",
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+      "publishedAt": "2026-11-09T22:23:42+00:00",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could tu..."
+    },
+    {
+      "fingerprint": "3d56119f731d99783cabbc63f19189b60b2c76ba75b934e0a724100b6ca8347d",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+      "publishedAt": "2026-11-09T20:09:06+00:00",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+    }
+  ]
+}
