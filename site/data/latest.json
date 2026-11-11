@@ -1,108 +1,108 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T13:06:59.226057+00:00",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T12:16:31.860237+00:00",
   "sources": [
-    "Anthropic",
     "Google DeepMind",
+    "Hugging Face",
     "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "2f77f6ed6d74716bf9b3342165fdc41ec3a8980e3ac93d661c4589a78b2e9773",
+      "fingerprint": "aceda4e57ecb4edb90a7e39bf60b4fdc32ab03a190f908be67b16953981ba811",
+      "source": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "fingerprint": "76b3f3d71cddd1c29599beec59e3e5127f20343418fe2985fdf81f033e5b9d0f",
       "source": "Google DeepMind",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "publishedAt": "2026-11-10T13:00:00+00:00",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "publishedAt": "2026-11-11T09:00:00+00:00",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
     },
     {
-      "fingerprint": "d0edc5f4e0f88c1fe8ef5500dc5ceafb09530c56e59c6231976e5c16bf1d2dd2",
-      "source": "TechCrunch AI",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
-      "publishedAt": "2026-11-10T13:00:00+00:00",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
-    },
-    {
-      "fingerprint": "3c23d3a0f1627c841f4cf12246c5f558e046f57b58102bbeab0e0a439f27011f",
+      "fingerprint": "5b426b347ef673a74257a9c8fef44235ea20756166c0770f00e75891934aeef1",
       "source": "OpenAI",
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "publishedAt": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
-      "fingerprint": "a1155855f58069c0b7011fbd70ff2bf72e7e749ac26ee4623dfe9471cf0cb935",
-      "source": "OpenAI",
-      "title": "Closing the AI guidance gap in education",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "publishedAt": "2026-11-10T09:00:00+00:00",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "fingerprint": "a5860aa5d3d19db6632b7dbf92694cdb6068c291e06c6aeabdb4e96d32be580a",
+      "fingerprint": "cd7ff582bf933893b11ff972821373283605319c2f32e12c83149b18763de36d",
       "source": "TechCrunch AI",
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
-      "publishedAt": "2026-11-10T07:00:00+00:00",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "publishedAt": "2026-11-11T07:30:51+00:00",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
     },
     {
-      "fingerprint": "b62630dbe28c6489686ada041bcc4951243003fde8bb7610cfe99318b621e38a",
+      "fingerprint": "a9c63aad2da600a2c7d2c8f1151036954e682c163c912c9aa31a300641a16a5a",
+      "source": "Hugging Face",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "publishedAt": "2026-11-11T05:01:16+00:00",
+      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+    },
+    {
+      "fingerprint": "3a17ade592e51da81373e2222dcc16ba4d3ceee652715d05e4e55338e4830db5",
       "source": "TechCrunch AI",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-      "publishedAt": "2026-11-10T01:27:12+00:00",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "publishedAt": "2026-11-10T21:08:52+00:00",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
     },
     {
-      "fingerprint": "1ecc544b18afbac65a956cf534a75b1348c2b4a3a418b07db6a3401a24b3deee",
-      "source": "Anthropic",
-      "title": "Announcements",
-      "link": "https://www.anthropic.com/news/announcements",
-      "publishedAt": "2026-11-10T00:00:00+00:00",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "fingerprint": "8462ca2833ced638c6eef23b9b38881e5b2831c010db0ed1afa02a2a7f053e86",
-      "source": "Anthropic",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "link": "https://www.anthropic.com/news/roadshow-launch",
-      "publishedAt": "2026-11-10T00:00:00+00:00",
-      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
-    },
-    {
-      "fingerprint": "33d93d15dc90fc5c82d7e4194b0f3427c2d2e4d91b8eb09d7e792f6e3e498cf4",
+      "fingerprint": "bf3e10074659ea83af8ec86c0d1612ce8a60a27c12928c193be7946bf90a1339",
       "source": "TechCrunch AI",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
-      "publishedAt": "2026-11-09T23:28:37+00:00",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "publishedAt": "2026-11-10T20:52:13+00:00",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
     },
     {
-      "fingerprint": "e465467e34d1a37f9baaa1eaba00032e06fd0369125d37821f51158b513fe4e6",
+      "fingerprint": "cd66b4aaa39fe28554ac7696d7ca1fec45510a6c052494279796d7a0ab9c9791",
       "source": "TechCrunch AI",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
-      "publishedAt": "2026-11-09T22:46:09+00:00",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "publishedAt": "2026-11-10T19:57:52+00:00",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
     },
     {
-      "fingerprint": "8680fbe3f97dcef63e7b9257f0f378b7a1956cf0fc8976a795d6655d52085b7b",
+      "fingerprint": "843b5a9b1d8a5fd24d28e34c96d04e3e61e065fa3ee69ee0bacce62ae5df72ef",
       "source": "TechCrunch AI",
-      "title": "The race is on to sue Nvidia",
-      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
-      "publishedAt": "2026-11-09T22:23:42+00:00",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could tu..."
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+      "publishedAt": "2026-11-10T19:23:34+00:00",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
     },
     {
-      "fingerprint": "3d56119f731d99783cabbc63f19189b60b2c76ba75b934e0a724100b6ca8347d",
+      "fingerprint": "b0c82c8f14d46c264efc1f3b6f5ace1330980fecaf569247cf2535c19ba186f4",
       "source": "TechCrunch AI",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-      "publishedAt": "2026-11-09T20:09:06+00:00",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "publishedAt": "2026-11-10T19:03:52+00:00",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+    },
+    {
+      "fingerprint": "43bc8da6b77178ae94209d55cd03e3aeb072d2e886a39c93318a5d13861fb217",
+      "source": "Google DeepMind",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "publishedAt": "2026-11-10T19:00:00+00:00",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+    },
+    {
+      "fingerprint": "11f0eaf89b72f2bf17edd0461e76f726c50f44081582055ed5139dcb2bbfc9f8",
+      "source": "TechCrunch AI",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+      "publishedAt": "2026-11-10T18:49:52+00:00",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
     }
   ]
 }

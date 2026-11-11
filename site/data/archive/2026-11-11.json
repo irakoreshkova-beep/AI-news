@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T12:16:31.860237+00:00",
+  "sources": [
+    "Google DeepMind",
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "aceda4e57ecb4edb90a7e39bf60b4fdc32ab03a190f908be67b16953981ba811",
+      "source": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "fingerprint": "76b3f3d71cddd1c29599beec59e3e5127f20343418fe2985fdf81f033e5b9d0f",
+      "source": "Google DeepMind",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "publishedAt": "2026-11-11T09:00:00+00:00",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+    },
+    {
+      "fingerprint": "5b426b347ef673a74257a9c8fef44235ea20756166c0770f00e75891934aeef1",
+      "source": "OpenAI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "fingerprint": "cd7ff582bf933893b11ff972821373283605319c2f32e12c83149b18763de36d",
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "publishedAt": "2026-11-11T07:30:51+00:00",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+    },
+    {
+      "fingerprint": "a9c63aad2da600a2c7d2c8f1151036954e682c163c912c9aa31a300641a16a5a",
+      "source": "Hugging Face",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "publishedAt": "2026-11-11T05:01:16+00:00",
+      "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
+    },
+    {
+      "fingerprint": "3a17ade592e51da81373e2222dcc16ba4d3ceee652715d05e4e55338e4830db5",
+      "source": "TechCrunch AI",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "publishedAt": "2026-11-10T21:08:52+00:00",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+    },
+    {
+      "fingerprint": "bf3e10074659ea83af8ec86c0d1612ce8a60a27c12928c193be7946bf90a1339",
+      "source": "TechCrunch AI",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "publishedAt": "2026-11-10T20:52:13+00:00",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+    },
+    {
+      "fingerprint": "cd66b4aaa39fe28554ac7696d7ca1fec45510a6c052494279796d7a0ab9c9791",
+      "source": "TechCrunch AI",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "publishedAt": "2026-11-10T19:57:52+00:00",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+    },
+    {
+      "fingerprint": "843b5a9b1d8a5fd24d28e34c96d04e3e61e065fa3ee69ee0bacce62ae5df72ef",
+      "source": "TechCrunch AI",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+      "publishedAt": "2026-11-10T19:23:34+00:00",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+    },
+    {
+      "fingerprint": "b0c82c8f14d46c264efc1f3b6f5ace1330980fecaf569247cf2535c19ba186f4",
+      "source": "TechCrunch AI",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "publishedAt": "2026-11-10T19:03:52+00:00",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+    },
+    {
+      "fingerprint": "43bc8da6b77178ae94209d55cd03e3aeb072d2e886a39c93318a5d13861fb217",
+      "source": "Google DeepMind",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "publishedAt": "2026-11-10T19:00:00+00:00",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+    },
+    {
+      "fingerprint": "11f0eaf89b72f2bf17edd0461e76f726c50f44081582055ed5139dcb2bbfc9f8",
+      "source": "TechCrunch AI",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+      "publishedAt": "2026-11-10T18:49:52+00:00",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+    }
+  ]
+}
