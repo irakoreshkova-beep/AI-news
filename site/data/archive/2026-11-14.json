@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:51:01.298920+00:00",
+  "sources": [
+    "Hugging Face",
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "ad84f5a0127761dba0dd911f537ac33c978658ba91ec4fb83fa304ebd6192202",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "fingerprint": "f7b176c288b440bd0087eddca39f6641d40d8c63f53d1a77ef50a0ab6a8babc5",
+      "source": "TechCrunch AI",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "fingerprint": "49143bd777f2ad95f86899fedf60ac04f023d2e52e0c1afdd098c6f6dbdb475d",
+      "source": "TechCrunch AI",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
+      "fingerprint": "128a5e63943927b47ecef24564c70eedaeba0c4887adf5272e551e2ce2b10729",
+      "source": "Hugging Face",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "publishedAt": "2026-11-13T18:00:39+00:00",
+      "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+    },
+    {
+      "fingerprint": "ba4645ed80a2593eae94594af8cb10d9d69fdf05b94dc4a2e30fd6ac41bd3e8a",
+      "source": "Hugging Face",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "publishedAt": "2026-11-13T17:02:35+00:00",
+      "summary": "XYBench: Helping with the problem behind the question"
+    },
+    {
+      "fingerprint": "69162f056155f64bd5cc39216df24a18fc6498b53b0dd843b4bf88356ccb72a5",
+      "source": "TechCrunch AI",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "publishedAt": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+      "fingerprint": "935476e20cc7f89724579b6fca44803dedb79b313be47e03e2f74b51cc7b7a30",
+      "source": "TechCrunch AI",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "publishedAt": "2026-11-13T15:58:00+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "fingerprint": "0b120d57d3e91d7e22e914245b09da123109cc4671832c95004b1c7da6ef20d1",
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "fingerprint": "f0e9adeb12f723f99256b5b29f55dfcf96417ce44914848e784507b820f2e72e",
+      "source": "TechCrunch AI",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "publishedAt": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+    },
+    {
+      "fingerprint": "044dbc6760afdcc768ea6ecd04881b8f30985d70b0b7b9bd0bcc66f4c4e1b760",
+      "source": "Hugging Face",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publishedAt": "2026-11-13T14:05:22+00:00",
+      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+    },
+    {
+      "fingerprint": "7c1acd9b8e257fecf989d5d95040da6f07e2e3e1c771527c7e7fff328edbe2db",
+      "source": "TechCrunch AI",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+      "publishedAt": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    },
+    {
+      "fingerprint": "3edf10fa6140998e190e135a4be553bb60921b521935604cf1d9a24846fd6d1d",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+      "publishedAt": "2026-11-13T12:28:23+00:00",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+    }
+  ]
+}

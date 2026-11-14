@@ -1,13 +1,100 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T12:42:01.887080+00:00",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:51:01.298920+00:00",
   "sources": [
-    "Google DeepMind",
     "Hugging Face",
     "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
+    {
+      "fingerprint": "ad84f5a0127761dba0dd911f537ac33c978658ba91ec4fb83fa304ebd6192202",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "fingerprint": "f7b176c288b440bd0087eddca39f6641d40d8c63f53d1a77ef50a0ab6a8babc5",
+      "source": "TechCrunch AI",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "fingerprint": "49143bd777f2ad95f86899fedf60ac04f023d2e52e0c1afdd098c6f6dbdb475d",
+      "source": "TechCrunch AI",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
+      "fingerprint": "128a5e63943927b47ecef24564c70eedaeba0c4887adf5272e551e2ce2b10729",
+      "source": "Hugging Face",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "publishedAt": "2026-11-13T18:00:39+00:00",
+      "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+    },
+    {
+      "fingerprint": "ba4645ed80a2593eae94594af8cb10d9d69fdf05b94dc4a2e30fd6ac41bd3e8a",
+      "source": "Hugging Face",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "publishedAt": "2026-11-13T17:02:35+00:00",
+      "summary": "XYBench: Helping with the problem behind the question"
+    },
+    {
+      "fingerprint": "69162f056155f64bd5cc39216df24a18fc6498b53b0dd843b4bf88356ccb72a5",
+      "source": "TechCrunch AI",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "publishedAt": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+      "fingerprint": "935476e20cc7f89724579b6fca44803dedb79b313be47e03e2f74b51cc7b7a30",
+      "source": "TechCrunch AI",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "publishedAt": "2026-11-13T15:58:00+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "fingerprint": "0b120d57d3e91d7e22e914245b09da123109cc4671832c95004b1c7da6ef20d1",
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "fingerprint": "f0e9adeb12f723f99256b5b29f55dfcf96417ce44914848e784507b820f2e72e",
+      "source": "TechCrunch AI",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "publishedAt": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+    },
+    {
+      "fingerprint": "044dbc6760afdcc768ea6ecd04881b8f30985d70b0b7b9bd0bcc66f4c4e1b760",
+      "source": "Hugging Face",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publishedAt": "2026-11-13T14:05:22+00:00",
+      "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+    },
+    {
+      "fingerprint": "7c1acd9b8e257fecf989d5d95040da6f07e2e3e1c771527c7e7fff328edbe2db",
+      "source": "TechCrunch AI",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+      "publishedAt": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    },
     {
       "fingerprint": "3edf10fa6140998e190e135a4be553bb60921b521935604cf1d9a24846fd6d1d",
       "source": "TechCrunch AI",
@@ -15,94 +102,6 @@
       "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
       "publishedAt": "2026-11-13T12:28:23+00:00",
       "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
-    },
-    {
-      "fingerprint": "101290f69dba43b7b727e09b24d823500790a0749281297d50a4b62ef89f793e",
-      "source": "TechCrunch AI",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
-      "publishedAt": "2026-11-12T22:42:51+00:00",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
-    },
-    {
-      "fingerprint": "21155919117b9eb0b40cf7c771f7394f8fa2b9162f95995ca8558a26c876f3b2",
-      "source": "TechCrunch AI",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
-      "publishedAt": "2026-11-12T22:22:28+00:00",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
-    },
-    {
-      "fingerprint": "21a54d1b8a2e4af9c84f2299c57dd80ab40b8073298f62c9548aba72ef63c401",
-      "source": "TechCrunch AI",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "publishedAt": "2026-11-12T21:35:00+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
-      "fingerprint": "9916a8a704b25106c51513a07ea84068ee381d5aec9c748606a63f9e3f215f80",
-      "source": "TechCrunch AI",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-      "publishedAt": "2026-11-12T21:27:10+00:00",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
-    },
-    {
-      "fingerprint": "e97638506babdfa3ce9b001c43ecaa94ed9cc4e57323191d6eb52d7575010d56",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
-      "publishedAt": "2026-11-12T20:26:47+00:00",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
-    },
-    {
-      "fingerprint": "ea9fb65e1da353fd5be611fe2e6eda270ba755eb01faea25079edd066aab7b8d",
-      "source": "OpenAI",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "publishedAt": "2026-11-12T20:00:00+00:00",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    },
-    {
-      "fingerprint": "bbf9746c32711a0fea9c45e7c94e9b5cb214b817c1c749c1ae071dfb7e836ae4",
-      "source": "TechCrunch AI",
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
-      "publishedAt": "2026-11-12T19:27:45+00:00",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-    },
-    {
-      "fingerprint": "e42826fcff81dafa308275df40dd960195e9df441d900e49843e9e0ceb77a6ed",
-      "source": "TechCrunch AI",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-      "publishedAt": "2026-11-12T19:11:00+00:00",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
-    },
-    {
-      "fingerprint": "4ba5275dcf48c6395ca97c1c4885ccc9e78537546dc1ffd3a24a86e9e1de4f70",
-      "source": "Hugging Face",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "publishedAt": "2026-11-12T19:07:35+00:00",
-      "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
-    },
-    {
-      "fingerprint": "16dc2bd6ed7a4316a31cc521583ef10ad2d5eaac8f28f4716a17db5522cd7f4b",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
-      "publishedAt": "2026-11-12T18:39:23+00:00",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
-    },
-    {
-      "fingerprint": "027509c5bd6653a2b0e5db2013b9061dc74e3c79c8d0ac19955bc7b860d2ecac",
-      "source": "Google DeepMind",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "publishedAt": "2026-11-12T18:00:00+00:00",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
     }
   ]
 }
