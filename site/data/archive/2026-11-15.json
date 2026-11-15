@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T12:20:52.555455+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "2bd66566e467ef6d13e7a1f9ad9b2c62b13ba3597623e316a7add4abd60e278a",
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "publishedAt": "2026-11-15T00:08:07+00:00",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says..."
+    },
+    {
+      "fingerprint": "c50a150e76cf2ec0244ed297bcd998f9f47e1f4861cae01333c4eca15fceec10",
+      "source": "TechCrunch AI",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "publishedAt": "2026-11-14T21:41:22+00:00",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    },
+    {
+      "fingerprint": "520af2496985e69505139c7ebb129d3be3c713f74fdd1ce69e39446a639a413a",
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "publishedAt": "2026-11-14T17:30:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "fingerprint": "6e941e9cd976828602c8ff1259176dcea843f592683b6196682039afa582dc7d",
+      "source": "TechCrunch AI",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "publishedAt": "2026-11-14T16:34:15+00:00",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    }
+  ]
+}
