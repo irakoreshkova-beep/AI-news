@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T13:13:31.206599+00:00",
+  "sources": [
+    "OpenAI",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "e03d160d8eec101e32764b28ed847dffdf5edffbc4c0ba5406f8d65d1642a9f0",
+      "source": "TechCrunch AI",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "publishedAt": "2026-11-16T12:30:00+00:00",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+    },
+    {
+      "fingerprint": "0dbd043adb9d58a2a0283f844baf2b98c0fb0567e669872ce7ddb65b613fc2f1",
+      "source": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "publishedAt": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "fingerprint": "816cc68fd531220b49bd5b60e094bc6c40f628befb6c9d3c3df60235f99df440",
+      "source": "TechCrunch AI",
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "publishedAt": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions"
+    },
+    {
+      "fingerprint": "44cc5de8c6bcd792477710e8d58691d8792c4962f2e525af5a44189bc6bd2d03",
+      "source": "OpenAI",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "publishedAt": "2026-11-16T00:00:00+00:00",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+    },
+    {
+      "fingerprint": "eeb5a8358e125eda820652b645c4d6543d5c94b804cd26d87f365ca8501218af",
+      "source": "TechCrunch AI",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "publishedAt": "2026-11-15T23:30:00+00:00",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
+      "fingerprint": "9420a713bd93af1d0b21ba2b606565fd4c8e46a225aa48b1030146a7f8e66f0b",
+      "source": "OpenAI",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "publishedAt": "2026-11-15T22:00:01+00:00",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
+      "fingerprint": "f4224bf67011db0e9ea74209ce4bc8394942ad87e563cbfd757de432f610dcbd",
+      "source": "OpenAI",
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "publishedAt": "2026-11-15T22:00:00+00:00",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+    },
+    {
+      "fingerprint": "005a73082e7d316c93c72fd5a204c885d053ed812bfcd67647b90c47eff21c00",
+      "source": "TechCrunch AI",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "publishedAt": "2026-11-15T21:56:35+00:00",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+    },
+    {
+      "fingerprint": "0f37bc54b7a3a7a0b40278d667506acbed774aa956bc20cc7653f25b1d7cf339",
+      "source": "TechCrunch AI",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+      "publishedAt": "2026-11-15T20:20:57+00:00",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+    }
+  ]
+}
