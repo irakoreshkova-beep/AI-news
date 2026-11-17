@@ -1,82 +1,106 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T13:13:31.206599+00:00",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T13:56:57.207557+00:00",
   "sources": [
     "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "e03d160d8eec101e32764b28ed847dffdf5edffbc4c0ba5406f8d65d1642a9f0",
-      "source": "TechCrunch AI",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
-      "publishedAt": "2026-11-16T12:30:00+00:00",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
-    },
-    {
-      "fingerprint": "0dbd043adb9d58a2a0283f844baf2b98c0fb0567e669872ce7ddb65b613fc2f1",
+      "fingerprint": "c186e9f27a30ad2fcdeeed982879a2be53249268604d5f2f84817c5b558fe1d3",
       "source": "OpenAI",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "publishedAt": "2026-11-16T09:00:00+00:00",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
-      "fingerprint": "816cc68fd531220b49bd5b60e094bc6c40f628befb6c9d3c3df60235f99df440",
-      "source": "TechCrunch AI",
-      "title": "Apple launches new app to study how people use AI for health",
-      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
-      "publishedAt": "2026-11-16T01:30:00+00:00",
-      "summary": "Apple's new app for a study will answer everyday medical questions"
-    },
-    {
-      "fingerprint": "44cc5de8c6bcd792477710e8d58691d8792c4962f2e525af5a44189bc6bd2d03",
+      "fingerprint": "5b608368f5cc01805452f25d7cb7f4d8dc2e77580e45cd91605ea114ca795d66",
       "source": "OpenAI",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "publishedAt": "2026-11-16T00:00:00+00:00",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
-      "fingerprint": "eeb5a8358e125eda820652b645c4d6543d5c94b804cd26d87f365ca8501218af",
+      "fingerprint": "d40226525486d977dfee753cde857b2517d63451ce6f63a2d3c3b45f79f2cec2",
       "source": "TechCrunch AI",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
-      "publishedAt": "2026-11-15T23:30:00+00:00",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "publishedAt": "2026-11-16T23:32:32+00:00",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
     },
     {
-      "fingerprint": "9420a713bd93af1d0b21ba2b606565fd4c8e46a225aa48b1030146a7f8e66f0b",
+      "fingerprint": "b7a5820eb3aea34ee3e35fe306267abf4f3675e2c2b73f391cfeeaa1dafab533",
+      "source": "TechCrunch AI",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+      "publishedAt": "2026-11-16T22:03:02+00:00",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that..."
+    },
+    {
+      "fingerprint": "d39f300814543f8901715c0a680894822729d6d688ad549cc4c709beee3f9076",
+      "source": "TechCrunch AI",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "publishedAt": "2026-11-16T20:07:13+00:00",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+    },
+    {
+      "fingerprint": "cd0d4b5c6b58286aae084ffd920072e7aa5896c38af7c2c2a2372acae044dcac",
+      "source": "TechCrunch AI",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+      "publishedAt": "2026-11-16T19:12:02+00:00",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+    },
+    {
+      "fingerprint": "61364aea32fe4077a7a185cc6811bece286c19c695c10913671603fe91023dbd",
+      "source": "TechCrunch AI",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+      "publishedAt": "2026-11-16T18:11:10+00:00",
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+    },
+    {
+      "fingerprint": "8f46cb8fbbb00ce5658706cbcc300b07a1c02439b05b55914fe8762f3a73766c",
+      "source": "TechCrunch AI",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "publishedAt": "2026-11-16T17:36:43+00:00",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+    },
+    {
+      "fingerprint": "6f52f89603711d521e323e14dc87a87654a6fe61099feab32cd14f2799425cad",
+      "source": "TechCrunch AI",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+      "publishedAt": "2026-11-16T17:10:00+00:00",
+      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+    },
+    {
+      "fingerprint": "43fe57aecfac08a075fba0807846db2332e6f1fc07fbeff1954c59c657068fea",
+      "source": "TechCrunch AI",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "publishedAt": "2026-11-16T17:02:43+00:00",
+      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+    },
+    {
+      "fingerprint": "0661789ef1ce364d9d9dad517157ac07c11c8f86f1572d01abdbbacf409b76d9",
       "source": "OpenAI",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "publishedAt": "2026-11-15T22:00:01+00:00",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
     },
     {
-      "fingerprint": "f4224bf67011db0e9ea74209ce4bc8394942ad87e563cbfd757de432f610dcbd",
+      "fingerprint": "033763252d764e22c2c5621819653a7e8fc90ce70ef12e23c92cea6a8e0b0060",
       "source": "OpenAI",
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "publishedAt": "2026-11-15T22:00:00+00:00",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
-    },
-    {
-      "fingerprint": "005a73082e7d316c93c72fd5a204c885d053ed812bfcd67647b90c47eff21c00",
-      "source": "TechCrunch AI",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
-      "publishedAt": "2026-11-15T21:56:35+00:00",
-      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
-    },
-    {
-      "fingerprint": "0f37bc54b7a3a7a0b40278d667506acbed774aa956bc20cc7653f25b1d7cf339",
-      "source": "TechCrunch AI",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-      "publishedAt": "2026-11-15T20:20:57+00:00",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
     }
   ]
 }
