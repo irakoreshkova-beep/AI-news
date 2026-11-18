@@ -1,106 +1,106 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T13:56:57.207557+00:00",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T13:32:48.593950+00:00",
   "sources": [
     "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "c186e9f27a30ad2fcdeeed982879a2be53249268604d5f2f84817c5b558fe1d3",
+      "fingerprint": "82944535d87271712a478c2ace207248f98c78a1180c43b37ae8d4d1e2c3c7a1",
+      "source": "TechCrunch AI",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+      "publishedAt": "2026-11-18T13:00:00+00:00",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+    },
+    {
+      "fingerprint": "ee06b9079403392b65e9fec7bba4414906e3aded67b69f5206aa0c90347c593a",
+      "source": "TechCrunch AI",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "publishedAt": "2026-11-18T12:00:00+00:00",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+    },
+    {
+      "fingerprint": "194b6cfcb44ffe9ea84ba3c104d38ebd99c7fb1a3c55a36ce38dec89a5945c8d",
+      "source": "TechCrunch AI",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "publishedAt": "2026-11-18T11:30:00+00:00",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    },
+    {
+      "fingerprint": "77e8e281e180bba7b1e322b7044709ff27a1c162df7536c6aa45c4fc0ee43ab1",
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
+      "publishedAt": "2026-11-18T01:44:21+00:00",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+    },
+    {
+      "fingerprint": "08077997e6e1a6df815afe003a92438ac3c783cd131ead3a78048523521ba43d",
+      "source": "TechCrunch AI",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "publishedAt": "2026-11-18T00:16:50+00:00",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+    },
+    {
+      "fingerprint": "c5d52d6ca572c6635759e35f89f0bf3da4e4a546a884e04cd256e3c8dbf85a60",
       "source": "OpenAI",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
     },
     {
-      "fingerprint": "5b608368f5cc01805452f25d7cb7f4d8dc2e77580e45cd91605ea114ca795d66",
-      "source": "OpenAI",
-      "title": "Introducing OpenAI for Chile",
-      "link": "https://openai.com/index/introducing-openai-for-chile",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
-    },
-    {
-      "fingerprint": "d40226525486d977dfee753cde857b2517d63451ce6f63a2d3c3b45f79f2cec2",
+      "fingerprint": "120b9a5e2ab839f489e870d32e13a61d16b8414a0ce0b33de75035cbe173df6f",
       "source": "TechCrunch AI",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
-      "publishedAt": "2026-11-16T23:32:32+00:00",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster",
+      "publishedAt": "2026-11-17T23:37:48+00:00",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
     },
     {
-      "fingerprint": "b7a5820eb3aea34ee3e35fe306267abf4f3675e2c2b73f391cfeeaa1dafab533",
+      "fingerprint": "86c2e57d67da1153d06c4861dd536aa825a7d299b10eb8b7ff39907d7424f4af",
       "source": "TechCrunch AI",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
-      "publishedAt": "2026-11-16T22:03:02+00:00",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that..."
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
+      "publishedAt": "2026-11-17T23:04:35+00:00",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
     },
     {
-      "fingerprint": "d39f300814543f8901715c0a680894822729d6d688ad549cc4c709beee3f9076",
+      "fingerprint": "85be9e975aaa7c463ccf3a0a5151a1abc087ce6d4528d8fb05c8a75bab55eec8",
       "source": "TechCrunch AI",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
-      "publishedAt": "2026-11-16T20:07:13+00:00",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+      "publishedAt": "2026-11-17T22:42:27+00:00",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
     },
     {
-      "fingerprint": "cd0d4b5c6b58286aae084ffd920072e7aa5896c38af7c2c2a2372acae044dcac",
+      "fingerprint": "ef9d8a9ab75c6efbc56572145b7e081d207201d4494bd7eafa20aed0d6d088e2",
       "source": "TechCrunch AI",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
-      "publishedAt": "2026-11-16T19:12:02+00:00",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+      "publishedAt": "2026-11-17T22:29:05+00:00",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
     },
     {
-      "fingerprint": "61364aea32fe4077a7a185cc6811bece286c19c695c10913671603fe91023dbd",
+      "fingerprint": "0e1b0e5fa63bb7bc5505cdc01fff75b3dcbb67a979d4ec82fb60e152fe5a3a99",
       "source": "TechCrunch AI",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
-      "publishedAt": "2026-11-16T18:11:10+00:00",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+      "publishedAt": "2026-11-17T21:48:07+00:00",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
     },
     {
-      "fingerprint": "8f46cb8fbbb00ce5658706cbcc300b07a1c02439b05b55914fe8762f3a73766c",
+      "fingerprint": "c72f6256b0acf6ec4c2a122c873f56be5744f277cb0f3fea38a59a460ac20628",
       "source": "TechCrunch AI",
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-      "publishedAt": "2026-11-16T17:36:43+00:00",
-      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
-    },
-    {
-      "fingerprint": "6f52f89603711d521e323e14dc87a87654a6fe61099feab32cd14f2799425cad",
-      "source": "TechCrunch AI",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
-      "publishedAt": "2026-11-16T17:10:00+00:00",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
-    },
-    {
-      "fingerprint": "43fe57aecfac08a075fba0807846db2332e6f1fc07fbeff1954c59c657068fea",
-      "source": "TechCrunch AI",
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
-      "publishedAt": "2026-11-16T17:02:43+00:00",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
-    },
-    {
-      "fingerprint": "0661789ef1ce364d9d9dad517157ac07c11c8f86f1572d01abdbbacf409b76d9",
-      "source": "OpenAI",
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "fingerprint": "033763252d764e22c2c5621819653a7e8fc90ce70ef12e23c92cea6a8e0b0060",
-      "source": "OpenAI",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "link": "https://openai.com/index/strengthening-online-child-safety",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+      "publishedAt": "2026-11-17T21:34:50+00:00",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
     }
   ]
 }
