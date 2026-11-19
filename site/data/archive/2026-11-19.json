@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T13:59:39.968795+00:00",
+  "sources": [
+    "Hugging Face",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "cdab526ae7a424b8a1023f43c005e573f2b8472641936e5d83bc234f1d22d810",
+      "source": "TechCrunch AI",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "publishedAt": "2026-11-19T00:42:56+00:00",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but n..."
+    },
+    {
+      "fingerprint": "0063da3aed056b6dd1aece0691d599889d01932de45da1323dc4d8945cdd35e9",
+      "source": "TechCrunch AI",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "publishedAt": "2026-11-18T23:45:00+00:00",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+    },
+    {
+      "fingerprint": "c124a8c6a67e849c2d2df705d77e65fb368d2563d8f0eb6e9c456ba582f53ff7",
+      "source": "TechCrunch AI",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "publishedAt": "2026-11-18T23:25:17+00:00",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
+    },
+    {
+      "fingerprint": "4f91c88e9ec8b9555396e3497c96439d06c48418e4c791dcef666e045851aab4",
+      "source": "TechCrunch AI",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "publishedAt": "2026-11-18T23:17:28+00:00",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+    },
+    {
+      "fingerprint": "76bd34cfcccbf8f425570a2f43e862764441d7db187ba47d093c2ff7dedde641",
+      "source": "TechCrunch AI",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "publishedAt": "2026-11-18T22:58:11+00:00",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+    },
+    {
+      "fingerprint": "2351464cb654444b4bf9b4dececa87e830a8c7edad15c2c8be71f0ac5008afb5",
+      "source": "TechCrunch AI",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "publishedAt": "2026-11-18T22:11:15+00:00",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+    },
+    {
+      "fingerprint": "d3e8aef1ac0208c434dd1b8e332cbd440e32312d6d18373effa7307eeb8a41c1",
+      "source": "TechCrunch AI",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "publishedAt": "2026-11-18T21:57:40+00:00",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
+    },
+    {
+      "fingerprint": "ecebc6e91649d70a309c0b130b89914ff0c459b6c69a2b65b30a9b250e2e615a",
+      "source": "TechCrunch AI",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "publishedAt": "2026-11-18T21:34:13+00:00",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
+    },
+    {
+      "fingerprint": "6de7351c2b805177373514b3175b203f2a8576e77f19b0dfade6cf8004e85fb5",
+      "source": "TechCrunch AI",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "publishedAt": "2026-11-18T21:31:21+00:00",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
+    },
+    {
+      "fingerprint": "1b4426f544d80a2677b2c0fce343de58533ce7cd512bfaa13a6c9deeb2e65f55",
+      "source": "TechCrunch AI",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+      "publishedAt": "2026-11-18T20:07:01+00:00",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
+    },
+    {
+      "fingerprint": "6a55399b007d4ec2824da153b45257c0d271d7e39768929e39a6b796bd0450f0",
+      "source": "TechCrunch AI",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "publishedAt": "2026-11-18T19:56:39+00:00",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+    },
+    {
+      "fingerprint": "0d03c1ecbbba58350375e382a3f1d5b0d52d3b9d48b05894fc06dac80878cdd1",
+      "source": "Hugging Face",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "publishedAt": "2026-11-18T19:54:56+00:00",
+      "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
+    }
+  ]
+}
