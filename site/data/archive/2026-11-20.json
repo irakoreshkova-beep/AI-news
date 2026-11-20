@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T13:42:13.583793+00:00",
+  "sources": [
+    "Anthropic",
+    "Google DeepMind",
+    "Hugging Face",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "56c3da46216026a1e41362a8311dfc98380d4ac09d3a431fafa9d442bf679119",
+      "source": "TechCrunch AI",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "publishedAt": "2026-11-20T00:56:01+00:00",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+    },
+    {
+      "fingerprint": "59316e86224b46c0e6f80890c657440f8ad754eb5ce352e7bf25d46a0da28aac",
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+      "publishedAt": "2026-11-20T00:43:50+00:00",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+    },
+    {
+      "fingerprint": "1ecc544b18afbac65a956cf534a75b1348c2b4a3a418b07db6a3401a24b3deee",
+      "source": "Anthropic",
+      "title": "Announcements",
+      "link": "https://www.anthropic.com/news/announcements",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "fingerprint": "d5c88e93a789411b5a0336f324cd3e6d2e661eacca803d526758061d97739c43",
+      "source": "Anthropic",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "link": "https://www.anthropic.com/news/ipo-close",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters..."
+    },
+    {
+      "fingerprint": "41cd93c192deaf50fa191cedd65ba8e80c60bcc8ce4a3c03175954d4db04e417",
+      "source": "Hugging Face",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "summary": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
+    },
+    {
+      "fingerprint": "ff88c1fcee7c79c3c383134ec25eabb4aeab5ca03497f79c3d23b779436d169d",
+      "source": "TechCrunch AI",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "publishedAt": "2026-11-19T21:58:06+00:00",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+    },
+    {
+      "fingerprint": "ad959f207d9ac2097df69c541412d5cbd49086b0b16063a5b0c354e857d670ba",
+      "source": "TechCrunch AI",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+      "publishedAt": "2026-11-19T21:42:31+00:00",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+    },
+    {
+      "fingerprint": "9ef676666cca7cd520be1b5c05a829d54c767e0b56480d6dd16dc0f8b90dad34",
+      "source": "TechCrunch AI",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "publishedAt": "2026-11-19T20:18:49+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "fingerprint": "5b1cefc1f9b6f7c19b6b314013cbe1dd0b8c4cbfea479700a9d3b829d812bcd9",
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+      "publishedAt": "2026-11-19T19:10:45+00:00",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+    },
+    {
+      "fingerprint": "0273959dcda9ab26608e4571905a4ff2f75f00def724304ec99c949ca1a5d8f6",
+      "source": "TechCrunch AI",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "publishedAt": "2026-11-19T18:09:11+00:00",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+    },
+    {
+      "fingerprint": "26a999cadd24d563d1162de5f80b8f89145f60a959aa0ed0e04b87a3fddcdb7a",
+      "source": "Google DeepMind",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "publishedAt": "2026-11-19T18:00:00+00:00",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+    },
+    {
+      "fingerprint": "bf3d68575ca5c57750da4ee2551d8d635be279966ae55cf9c88b38b87d97c230",
+      "source": "TechCrunch AI",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "publishedAt": "2026-11-19T17:38:40+00:00",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+    }
+  ]
+}
