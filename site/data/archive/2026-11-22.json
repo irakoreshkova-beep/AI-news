@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T12:55:20.147578+00:00",
+  "sources": [
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "aad14ab99f7a23f640000cb59f68efd9f1e645fb6f60a7068d9bda9edfeb111c",
+      "source": "TechCrunch AI",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "publishedAt": "2026-11-21T21:37:10+00:00",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    },
+    {
+      "fingerprint": "df0a445b915d1af02e712557b7a4465423bdfd199924fc6d33b9f165f33523a3",
+      "source": "TechCrunch AI",
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "publishedAt": "2026-11-21T21:07:42+00:00",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+    },
+    {
+      "fingerprint": "00e7607e2fb8c469573bedc650d342a8300850f2c94674c6f18aa11ec851682b",
+      "source": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "publishedAt": "2026-11-21T17:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "fingerprint": "f285daa882607a15d3ef3394d24d968ea8e898cac2eabb59a267e7fb77b059f7",
+      "source": "TechCrunch AI",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "publishedAt": "2026-11-21T16:00:00+00:00",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+    }
+  ]
+}
