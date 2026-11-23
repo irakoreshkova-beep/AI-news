@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T15:29:54.507080+00:00",
+  "sources": [
+    "Hugging Face",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "e312e8a6a1f76054f858d7a3518e80d761225257a742f2f09fa1b8db8d8012e4",
+      "source": "TechCrunch AI",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
+      "publishedAt": "2026-11-23T15:04:01+00:00",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+    },
+    {
+      "fingerprint": "9166283804442d6be69636380d03da28219fee2f9997b7cba4f912c656d797ec",
+      "source": "TechCrunch AI",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+      "publishedAt": "2026-11-23T14:43:03+00:00",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+    },
+    {
+      "fingerprint": "0e1cceeb50591165cae7c5f784c72ff5a9336bd20366cd55a9de4e6f5caaf303",
+      "source": "TechCrunch AI",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
+      "publishedAt": "2026-11-23T14:21:59+00:00",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government."
+    },
+    {
+      "fingerprint": "bf29b84e5345af5f795b0ac63181a1ad23ae230940b35ef7eaac8b8def7bfbb2",
+      "source": "TechCrunch AI",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+    },
+    {
+      "fingerprint": "6d92c7da65a2a36cc0a5c08181c2ab4c323c77bf237f824a86c763b2e988505f",
+      "source": "Hugging Face",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "summary": "How to build and maintain an agentic evaluation"
+    },
+    {
+      "fingerprint": "52100267267d8d0ebb722f8e3a374d7c9b9a3f63834400b3a75478371bb49fa1",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
+      "fingerprint": "27495c2d997b3f2a0509dab96ba52fe599a1a28bed4ad9b82bad446a207937ee",
+      "source": "TechCrunch AI",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "publishedAt": "2026-11-22T18:08:43+00:00",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+    }
+  ]
+}

@@ -1,41 +1,66 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T12:55:20.147578+00:00",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T15:29:54.507080+00:00",
   "sources": [
+    "Hugging Face",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "aad14ab99f7a23f640000cb59f68efd9f1e645fb6f60a7068d9bda9edfeb111c",
+      "fingerprint": "e312e8a6a1f76054f858d7a3518e80d761225257a742f2f09fa1b8db8d8012e4",
       "source": "TechCrunch AI",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
-      "publishedAt": "2026-11-21T21:37:10+00:00",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
+      "publishedAt": "2026-11-23T15:04:01+00:00",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation."
     },
     {
-      "fingerprint": "df0a445b915d1af02e712557b7a4465423bdfd199924fc6d33b9f165f33523a3",
+      "fingerprint": "9166283804442d6be69636380d03da28219fee2f9997b7cba4f912c656d797ec",
       "source": "TechCrunch AI",
-      "title": "A tale of two Nvidias",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
-      "publishedAt": "2026-11-21T21:07:42+00:00",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+      "publishedAt": "2026-11-23T14:43:03+00:00",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
     },
     {
-      "fingerprint": "00e7607e2fb8c469573bedc650d342a8300850f2c94674c6f18aa11ec851682b",
+      "fingerprint": "0e1cceeb50591165cae7c5f784c72ff5a9336bd20366cd55a9de4e6f5caaf303",
       "source": "TechCrunch AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "publishedAt": "2026-11-21T17:00:00+00:00",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
+      "publishedAt": "2026-11-23T14:21:59+00:00",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government."
     },
     {
-      "fingerprint": "f285daa882607a15d3ef3394d24d968ea8e898cac2eabb59a267e7fb77b059f7",
+      "fingerprint": "bf29b84e5345af5f795b0ac63181a1ad23ae230940b35ef7eaac8b8def7bfbb2",
       "source": "TechCrunch AI",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
-      "publishedAt": "2026-11-21T16:00:00+00:00",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+    },
+    {
+      "fingerprint": "6d92c7da65a2a36cc0a5c08181c2ab4c323c77bf237f824a86c763b2e988505f",
+      "source": "Hugging Face",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "publishedAt": "2026-11-23T00:00:00+00:00",
+      "summary": "How to build and maintain an agentic evaluation"
+    },
+    {
+      "fingerprint": "52100267267d8d0ebb722f8e3a374d7c9b9a3f63834400b3a75478371bb49fa1",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
+      "fingerprint": "27495c2d997b3f2a0509dab96ba52fe599a1a28bed4ad9b82bad446a207937ee",
+      "source": "TechCrunch AI",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "publishedAt": "2026-11-22T18:08:43+00:00",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
     }
   ]
 }
