@@ -1,66 +1,108 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T15:29:54.507080+00:00",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T15:23:49.605460+00:00",
   "sources": [
+    "Google DeepMind",
     "Hugging Face",
+    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "e312e8a6a1f76054f858d7a3518e80d761225257a742f2f09fa1b8db8d8012e4",
+      "fingerprint": "ff6bd0c43b43d40389e8a1d6fde327f70c262bfc91da41a576b92ca04abacda7",
       "source": "TechCrunch AI",
-      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
-      "publishedAt": "2026-11-23T15:04:01+00:00",
-      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "publishedAt": "2026-11-23T22:05:50+00:00",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
     },
     {
-      "fingerprint": "9166283804442d6be69636380d03da28219fee2f9997b7cba4f912c656d797ec",
+      "fingerprint": "58234a89292914e3af177865e9886f4500a15e3ee81be6ae0daba5f39c06c19d",
       "source": "TechCrunch AI",
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
-      "publishedAt": "2026-11-23T14:43:03+00:00",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "publishedAt": "2026-11-23T22:02:05+00:00",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
     },
     {
-      "fingerprint": "0e1cceeb50591165cae7c5f784c72ff5a9336bd20366cd55a9de4e6f5caaf303",
+      "fingerprint": "12f03340938dad9d4b078c741ceba41c9e7da228859cc1bfc44dcfeb08849202",
       "source": "TechCrunch AI",
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
-      "publishedAt": "2026-11-23T14:21:59+00:00",
-      "summary": "The stunning reversal was supported by senior officials in the U.S. government."
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "publishedAt": "2026-11-23T21:47:41+00:00",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
     },
     {
-      "fingerprint": "bf29b84e5345af5f795b0ac63181a1ad23ae230940b35ef7eaac8b8def7bfbb2",
+      "fingerprint": "0a4edb5c237a82c675249fc1378b086f87c1849911cd93780eed281f902aadc8",
       "source": "TechCrunch AI",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-      "publishedAt": "2026-11-23T01:25:53+00:00",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "publishedAt": "2026-11-23T21:25:42+00:00",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
     },
     {
-      "fingerprint": "6d92c7da65a2a36cc0a5c08181c2ab4c323c77bf237f824a86c763b2e988505f",
+      "fingerprint": "7f19ebc4962d785409b7c22f54c05846c06fe6a4406a9d7119f3381af2eb495b",
+      "source": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "publishedAt": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "fingerprint": "24a2f8f1d5f26541bff9d28715489bb1b552ef579b0fdabcf96459e105b641d8",
+      "source": "TechCrunch AI",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+      "publishedAt": "2026-11-23T20:38:53+00:00",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+    },
+    {
+      "fingerprint": "1e8555335b53cbceaa9d7fb56006cddd42771f3261caa90f9b4bf36591a6e58c",
+      "source": "TechCrunch AI",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "publishedAt": "2026-11-23T19:14:46+00:00",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+    },
+    {
+      "fingerprint": "a0f28b77a67849a719cd720cff5ab77aa61b8343d11aaa5f4d6aaef911b80260",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+      "publishedAt": "2026-11-23T18:12:22+00:00",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+    },
+    {
+      "fingerprint": "5becf9bee502bde12492434166d9affcab4ae94311e2003e2de3f11027024e8f",
       "source": "Hugging Face",
-      "title": "How to build and maintain an agentic evaluation",
-      "link": "https://huggingface.co/blog/agentic-evals",
-      "publishedAt": "2026-11-23T00:00:00+00:00",
-      "summary": "How to build and maintain an agentic evaluation"
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "publishedAt": "2026-11-23T17:20:37+00:00",
+      "summary": "RoboTrack: Point tracking for real-world robotic manipulation"
     },
     {
-      "fingerprint": "52100267267d8d0ebb722f8e3a374d7c9b9a3f63834400b3a75478371bb49fa1",
+      "fingerprint": "c7215904b870365305867ad54a415682b4dc07805b3baf72f2f9b8d41037edff",
       "source": "TechCrunch AI",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-      "publishedAt": "2026-11-22T21:14:07+00:00",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "publishedAt": "2026-11-23T17:14:23+00:00",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
     },
     {
-      "fingerprint": "27495c2d997b3f2a0509dab96ba52fe599a1a28bed4ad9b82bad446a207937ee",
+      "fingerprint": "f18f30dd0ffdaece4b97b51b45161ed767b97774bf07fd3419e85d71f36fd4d4",
+      "source": "Google DeepMind",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "publishedAt": "2026-11-23T17:00:00+00:00",
+      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+    },
+    {
+      "fingerprint": "f54c470284e27cb710a82e1a0ae0e821ce9f7c8d7a7e54720f7b668afec7073d",
       "source": "TechCrunch AI",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-      "publishedAt": "2026-11-22T18:08:43+00:00",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+      "publishedAt": "2026-11-23T16:57:40+00:00",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
     }
   ]
 }
