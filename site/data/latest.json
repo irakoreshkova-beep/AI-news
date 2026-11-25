@@ -1,108 +1,106 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T15:23:49.605460+00:00",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T15:06:30.718852+00:00",
   "sources": [
-    "Google DeepMind",
     "Hugging Face",
-    "OpenAI",
     "TechCrunch AI"
   ],
   "items": [
     {
-      "fingerprint": "ff6bd0c43b43d40389e8a1d6fde327f70c262bfc91da41a576b92ca04abacda7",
+      "fingerprint": "6de83afd43f365ad46e2cfbdad9e64537be8a940dcad16970efe52d74b83e252",
       "source": "TechCrunch AI",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "publishedAt": "2026-11-23T22:05:50+00:00",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "publishedAt": "2026-11-25T14:10:18+00:00",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
     },
     {
-      "fingerprint": "58234a89292914e3af177865e9886f4500a15e3ee81be6ae0daba5f39c06c19d",
+      "fingerprint": "ac1458cd2d5f90ad79e674e0275db992260fb5ad100ede5e9a2250e6be0b75f1",
       "source": "TechCrunch AI",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
-      "publishedAt": "2026-11-23T22:02:05+00:00",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "publishedAt": "2026-11-25T13:00:00+00:00",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
     },
     {
-      "fingerprint": "12f03340938dad9d4b078c741ceba41c9e7da228859cc1bfc44dcfeb08849202",
-      "source": "TechCrunch AI",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
-      "publishedAt": "2026-11-23T21:47:41+00:00",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
-    },
-    {
-      "fingerprint": "0a4edb5c237a82c675249fc1378b086f87c1849911cd93780eed281f902aadc8",
-      "source": "TechCrunch AI",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
-      "publishedAt": "2026-11-23T21:25:42+00:00",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
-    },
-    {
-      "fingerprint": "7f19ebc4962d785409b7c22f54c05846c06fe6a4406a9d7119f3381af2eb495b",
-      "source": "OpenAI",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo",
-      "publishedAt": "2026-11-23T21:20:00+00:00",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-    },
-    {
-      "fingerprint": "24a2f8f1d5f26541bff9d28715489bb1b552ef579b0fdabcf96459e105b641d8",
-      "source": "TechCrunch AI",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
-      "publishedAt": "2026-11-23T20:38:53+00:00",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
-    },
-    {
-      "fingerprint": "1e8555335b53cbceaa9d7fb56006cddd42771f3261caa90f9b4bf36591a6e58c",
-      "source": "TechCrunch AI",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
-      "publishedAt": "2026-11-23T19:14:46+00:00",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
-    },
-    {
-      "fingerprint": "a0f28b77a67849a719cd720cff5ab77aa61b8343d11aaa5f4d6aaef911b80260",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
-      "publishedAt": "2026-11-23T18:12:22+00:00",
-      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
-    },
-    {
-      "fingerprint": "5becf9bee502bde12492434166d9affcab4ae94311e2003e2de3f11027024e8f",
+      "fingerprint": "9175bd9bbb2763d6e292c6951269184bcdc72b73be7c6cd263a076565207a58f",
       "source": "Hugging Face",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "link": "https://huggingface.co/blog/allenai/robotrack",
-      "publishedAt": "2026-11-23T17:20:37+00:00",
-      "summary": "RoboTrack: Point tracking for real-world robotic manipulation"
+      "title": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "publishedAt": "2026-11-25T10:22:09+00:00",
+      "summary": "An Indic Voice Agent with CUGA"
     },
     {
-      "fingerprint": "c7215904b870365305867ad54a415682b4dc07805b3baf72f2f9b8d41037edff",
+      "fingerprint": "40c60c73a5e7d2f12a55addc643edd88278401154a142e91bcf6d02ffcaa9191",
       "source": "TechCrunch AI",
-      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
-      "publishedAt": "2026-11-23T17:14:23+00:00",
-      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+      "publishedAt": "2026-11-25T00:12:02+00:00",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a g..."
     },
     {
-      "fingerprint": "f18f30dd0ffdaece4b97b51b45161ed767b97774bf07fd3419e85d71f36fd4d4",
-      "source": "Google DeepMind",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "publishedAt": "2026-11-23T17:00:00+00:00",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
-    },
-    {
-      "fingerprint": "f54c470284e27cb710a82e1a0ae0e821ce9f7c8d7a7e54720f7b668afec7073d",
+      "fingerprint": "4622f564d13c5b707067b0b040e1feb327c7971ca3771551223415024ccd67df",
       "source": "TechCrunch AI",
-      "title": "Jensen Huang isn’t out of the woods yet",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
-      "publishedAt": "2026-11-23T16:57:40+00:00",
-      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "publishedAt": "2026-11-24T22:27:52+00:00",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+    },
+    {
+      "fingerprint": "afcd5c1484fc58c1b897843e86fe696b235583db41b0c2bce581fcc174613bb3",
+      "source": "TechCrunch AI",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+      "publishedAt": "2026-11-24T21:48:27+00:00",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+    },
+    {
+      "fingerprint": "15ac8e607bd73a0ead4493dcb495cc790ebf6e07501db5fa6b1a53f566c9f518",
+      "source": "TechCrunch AI",
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "publishedAt": "2026-11-24T21:33:29+00:00",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+    },
+    {
+      "fingerprint": "cd87dce8a96786041856645e45adf047c738d10e9be6da2907183fe442a58b97",
+      "source": "TechCrunch AI",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "publishedAt": "2026-11-24T21:32:38+00:00",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+    },
+    {
+      "fingerprint": "37445af76fdcecb360f11022a1bc78e6411be3d9c1fe6e1faaa2a525fa69293f",
+      "source": "TechCrunch AI",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "publishedAt": "2026-11-24T21:19:52+00:00",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+    },
+    {
+      "fingerprint": "f7767f5f066c0e1c88a442f43ad43158a81d7b4959ec08117e611d87034fc652",
+      "source": "TechCrunch AI",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "publishedAt": "2026-11-24T18:30:42+00:00",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+    },
+    {
+      "fingerprint": "d9f7b4ff7409cbc987d8d2bc2bbb875fb09fa11f511fb63eb2125a6aed50f3d6",
+      "source": "TechCrunch AI",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "publishedAt": "2026-11-24T18:02:59+00:00",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+    },
+    {
+      "fingerprint": "8aeb3ae96c97d05d06157db34c710c6a97552a8a695865ba698327c886c3d8d0",
+      "source": "TechCrunch AI",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "publishedAt": "2026-11-24T17:00:00+00:00",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
     }
   ]
 }
