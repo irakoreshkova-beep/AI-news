@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T14:34:44.776106+00:00",
+  "sources": [
+    "Hugging Face",
+    "TechCrunch AI"
+  ],
+  "items": [
+    {
+      "fingerprint": "92c9caa813ec86ef8b3256dca09088e5da7f850ea6f941925186aa7f0592e67e",
+      "source": "Hugging Face",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "publishedAt": "2026-11-26T11:37:17+00:00",
+      "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+    },
+    {
+      "fingerprint": "8db976758b703564cc63584485ab01ab747c4cd7bef3848f81e4f7750e9935d9",
+      "source": "Hugging Face",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "publishedAt": "2026-11-26T05:05:36+00:00",
+      "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
+    },
+    {
+      "fingerprint": "f6f892a0cedc7579d1a3880c5d90588f9dc31d4df4a43c36544dd5b92bdbbc80",
+      "source": "Hugging Face",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "publishedAt": "2026-11-26T00:00:00+00:00",
+      "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
+    },
+    {
+      "fingerprint": "bd66538cf28dbc133c9b7836d8c55014b57166b17825d3b3068dede7a41c3c22",
+      "source": "TechCrunch AI",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "publishedAt": "2026-11-25T22:44:32+00:00",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+    },
+    {
+      "fingerprint": "8efcc532aaf45b8a5bb6d3907fe858015b39241a09144c9f21bc78eb4d344aca",
+      "source": "TechCrunch AI",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "publishedAt": "2026-11-25T20:03:27+00:00",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+      "fingerprint": "3fc85f03aa4fd7c54863e19cfd3d3535efa69578b0ed58b14e8bfd9918c21b0a",
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "publishedAt": "2026-11-25T19:54:57+00:00",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    },
+    {
+      "fingerprint": "27533c1fe1aa64779d24d59f8dcac230d4049dc4b00a8ffd6bd391fcbb486c94",
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "publishedAt": "2026-11-25T19:44:24+00:00",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+    },
+    {
+      "fingerprint": "19fdf4457613a4272f3a1faa93e08b5f447f20645b43ebb21141b41576207d4e",
+      "source": "Hugging Face",
+      "title": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "publishedAt": "2026-11-25T18:52:55+00:00",
+      "summary": "Where scientists draw the line on AI agents"
+    },
+    {
+      "fingerprint": "2a32fdd22f0d8e7cabcb2dc9d043098bd127db7bd8a0922668b93a4cdb0bc7ef",
+      "source": "TechCrunch AI",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "publishedAt": "2026-11-25T18:11:46+00:00",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+    },
+    {
+      "fingerprint": "015a4ed840233ad05c040443e6c85c2d4207760ac8ab5afedbff63ed79bec2de",
+      "source": "TechCrunch AI",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "publishedAt": "2026-11-25T17:35:58+00:00",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+    },
+    {
+      "fingerprint": "516d3773bceb3fc83343eb0fbd375128f8d748a12850d004cfac6e61cd1cfda3",
+      "source": "TechCrunch AI",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+      "publishedAt": "2026-11-25T15:41:43+00:00",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a fin..."
+    },
+    {
+      "fingerprint": "6de83afd43f365ad46e2cfbdad9e64537be8a940dcad16970efe52d74b83e252",
+      "source": "TechCrunch AI",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "publishedAt": "2026-11-25T14:10:18+00:00",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+    }
+  ]
+}
